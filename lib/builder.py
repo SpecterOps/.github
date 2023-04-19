@@ -33,15 +33,18 @@ class ReadMeBuilder:
     def __init__(self, data):
         cfg = load_config(self.config_path)
         self.featured_projects = cfg["featured"]
+        self.title = cfg["copy"]["title"]
         self.introduction = cfg["copy"]["introduction"]
         self.featured = cfg["copy"]["featured"]
         self.other = cfg["copy"]["other"]
         self.banner = cfg["copy"]["banner"]
 
+        self.slack_invite = cfg["community"]["slack"]
+
         self.overrides = cfg["overrides"]
 
         self.data = data
-        self.md_file = mdutils.MdUtils(file_name="README.md", title="SpecterOps Projects")
+        self.md_file = mdutils.MdUtils(file_name="profile/README.md", title=self.title)
 
     def build(self, toc: bool = False) -> None:
         """
@@ -64,13 +67,15 @@ class ReadMeBuilder:
         self.md_file.new_line(
             self.md_file.new_inline_image("SpecterOps", self.banner)
         )
+        self.md_file.new_line()
         self.md_file.new_line(
-            f"[![Slack](https://img.shields.io/badge/Slack-SpecterOps-{self.COLORS['green']})](https://bloodhoundgang.herokuapp.com)"
+            f"[![Slack](https://img.shields.io/badge/Slack-SpecterOps-{self.COLORS['green']})]({self.slack_invite})"
             " "
             "[![Slack](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops)"
             " "
             "[![Slack](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)"
         )
+        self.md_file.new_line()
         self.md_file.new_line()
         self.md_file.write(self.introduction.strip())
         self.md_file.new_line()
@@ -114,7 +119,7 @@ class ReadMeBuilder:
 
                 img = None
                 if repo["img"]:
-                    img = f"img/{repo['img']}"
+                    img = f"../img/{repo['img']}"
 
                 for project in self.overrides:
                     if project["repo"] == name.lower():
