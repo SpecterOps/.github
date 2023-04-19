@@ -1,4 +1,4 @@
-name: Fetch the Latest GitHub Data
+name: Fetch the Latest GitHub Data & Update README
 
 on:
   workflow_dispatch:
