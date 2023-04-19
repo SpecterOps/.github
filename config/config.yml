@@ -15,7 +15,7 @@ community:
 # Use `>` to write a multi-line string and use two blank lines to signify a new paragraph for MarkDown
 copy:
   title: "SpecterOps Open-Source Projects"
-  banner: "../img/specterops-banner.jpg"
+  banner: "img/specterops-banner.jpg"
   introduction: >
     At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
     

@@ -119,7 +119,7 @@ class ReadMeBuilder:
 
                 img = None
                 if repo["img"]:
-                    img = f"../img/{repo['img']}"
+                    img = f"img/{repo['img']}"
 
                 for project in self.overrides:
                     if project["repo"] == name.lower():
