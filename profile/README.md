@@ -1,9 +1,11 @@
 
-SpecterOps Projects
-===================
+SpecterOps Open-Source Projects
+===============================
   
-![SpecterOps](img/specterops-banner.jpg)  
-[![Slack](https://img.shields.io/badge/Slack-SpecterOps-02B36C)](https://bloodhoundgang.herokuapp.com) [![Slack](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops) [![Slack](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)  
+![SpecterOps](../img/specterops-banner.jpg)  
+  
+[![Slack](https://img.shields.io/badge/Slack-SpecterOps-02B36C)](https://join.slack.com/t/bloodhoundhq/shared_invite/zt-1tgq6ojd2-ixpx5nz9Wjtbhc3i8AVAWw) [![Slack](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops) [![Slack](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)  
+  
 At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
 
 SpecterOps employees control their projects and maintain intellectual property rights and licenses, so most of the projects sponsored by SpecterOps are spread out over many individual GitHub profiles and organizations. We have organized these projects here for your perusal.
@@ -12,14 +14,14 @@ You can read more about our commitment to transparency here: [A Push Toward Tran
 
 # Featured Projects
   
-The following projects are some of the larger open-source projects SpecterOps has, and continues to, sponsor and support. We hope you find them useful!  
+The following projects are some larger open-source projects SpecterOps has, and continues to, sponsor and support. We hope you find them useful!  
 
 ## BloodHound
   
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20%26%20Blue%20Team-966FD6) ![Slack](https://img.shields.io/badge/language-PowerShell-5465FF) ![forks](https://img.shields.io/github/forks/BloodHoundAD/BloodHound?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/BloodHoundAD/BloodHound?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![BloodHound](img/bloodhound.png)  
+![BloodHound](../img/bloodhound.png)  
   
 > BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory or Azure environment.  
 
@@ -35,7 +37,7 @@ The following projects are some of the larger open-source projects SpecterOps ha
 ![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/GhostManager/Ghostwriter?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/GhostManager/Ghostwriter?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![Ghostwriter](img/ghostwriter.png)  
+![Ghostwriter](../img/ghostwriter.png)  
   
 > Ghostwriter is a part of your team. It helps you manage clients, projects, reports, and infrastructure in one application. It does not replace some of the more common or traditional project management tools, such as CRMs. Still, it does consolidate all relevant project information in a way for users to easily curate every aspect of their projects.  
 
@@ -52,7 +54,7 @@ The following projects are some of the larger open-source projects SpecterOps ha
 ![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/its-a-feature/Mythic?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/its-a-feature/Mythic?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![Mythic](img/mythic.png)  
+![Mythic](../img/mythic.png)  
   
 > A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI. It's designed to provide a collaborative and user friendly interface for operators, managers, and reporting throughout red teaming.  
 
@@ -68,7 +70,7 @@ The following projects are some of the larger open-source projects SpecterOps ha
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Go-5465FF) ![forks](https://img.shields.io/github/forks/Ne0nd0g/merlin?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/Ne0nd0g/merlin?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![Merlin](img/merlin.png)  
+![Merlin](../img/merlin.png)  
   
 > Merlin is a cross-platform post-exploitation Command & Control server and agent written in Go.  
 
@@ -83,7 +85,7 @@ The following projects are some of the larger open-source projects SpecterOps ha
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/cobbr/Covenant?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/cobbr/Covenant?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![Covenant](img/covenant.png)  
+![Covenant](../img/covenant.png)  
   
 > Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.  
 
@@ -100,7 +102,7 @@ The following projects are some of the larger open-source projects SpecterOps ha
  ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/HardHatC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/HardHatC2?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![HardHatC2](img/harhat.png)  
+![HardHatC2](../img/harhat.png)  
   
 > A C# Command & Control framework   
 
@@ -234,7 +236,7 @@ The following projects are some of the larger open-source projects SpecterOps ha
 ![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-PowerShell-5465FF) ![forks](https://img.shields.io/github/forks/EmpireProject/Empire?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/EmpireProject/Empire?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![Empire](img/empire.png)  
+![Empire](../img/empire.png)  
   
 > Empire is a post-exploitation framework with a pure-PowerShell 2.0 Windows agent and a pure Python 2.6/2.7 Linux/OS X agent. It is the merge of the previous PowerShell Empire and Python EmPyre projects. The framework offers cryptological-secure communications and a flexible architecture. On the PowerShell side, Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework. PowerShell Empire premiered at BSidesLV in 2015, and Python EmPyre premiered at HackMiami in 2016.  
 >   
