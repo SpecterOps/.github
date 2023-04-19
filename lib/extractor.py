@@ -221,7 +221,6 @@ class DataExtractor:
         are first in the order they appear in the `config.yml` file.
         """
         reordered = OrderedDict()
-        # self.repo_data = OrderedDict(self.repo_data)
         for repo in self.featured:
             try:
                 reordered[repo["repo"]] = self.repo_data.pop(repo["repo"])
