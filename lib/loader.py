@@ -10,6 +10,8 @@ def load_config(config_path) -> dict:
             cfg = yaml.load(yml_file, Loader=yaml.FullLoader)
     except FileNotFoundError:
         raise SystemExit("Config file not found")
+    except yaml.parser.ParserError as exception:
+        raise SystemExit(f"Config file could not be parsed: {exception}")
 
     try:
         cfg["github"]
