@@ -8,7 +8,7 @@ SpecterOps Open-Source Projects
   
 At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
 
-SpecterOps employees control their projects and maintain intellectual property rights and licenses, so most of the projects sponsored by SpecterOps are spread out over many individual GitHub profiles and organizations. We have organized these projects here for your perusal.
+SpecterOps employees control their projects and maintain intellectual property rights and licenses, so most of the projects supported by SpecterOps are spread out over many individual GitHub profiles and organizations. We have organized these projects here for your perusal.
 
 You can read more about our commitment to transparency here: [A Push Toward Transparency](https://posts.specterops.io/a-push-toward-transparency-c385a0dd1e34)  
 
@@ -51,7 +51,7 @@ The following projects are some larger open-source projects SpecterOps has, and 
 
 ## Mythic
   
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/its-a-feature/Mythic?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/its-a-feature/Mythic?color=5465FF&style=social)  
+![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-JavaScript-5465FF) ![forks](https://img.shields.io/github/forks/its-a-feature/Mythic?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/its-a-feature/Mythic?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
 ![Mythic](img/mythic.png)  
@@ -80,26 +80,9 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
-## Covenant
-  
-![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/cobbr/Covenant?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/cobbr/Covenant?color=5465FF&style=social)  
-<details><summary>More Info</summary>  
-  
-![Covenant](img/covenant.png)  
-  
-> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.  
-
-|Resource|Link|
-| :--- | :--- |
-|GitHub|<https://github.com/cobbr/Covenant>|
-|Homepage|<https://cobbr.io/Covenant.html>|
-|Documentation|https://github.com/cobbr/Covenant/wiki|
-  
-</details>  
-
 ## HardHatC2
   
- ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/HardHatC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/HardHatC2?color=5465FF&style=social)  
+![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/HardHatC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/HardHatC2?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
 ![HardHatC2](img/harhat.png)  
@@ -112,24 +95,12 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
-## SharpSploit
-  
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/cobbr/SharpSploit?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/cobbr/SharpSploit?color=5465FF&style=social)  
-<details><summary>More Info</summary>  
-  
-> SharpSploit is a .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers.  
-
-|Resource|Link|
-| :--- | :--- |
-|GitHub|<https://github.com/cobbr/SharpSploit>|
-|Homepage|<https://sharpsploit.cobbr.io/api/>|
-  
-</details>  
-
 ## SharpSCCM
   
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/Mayyhem/SharpSCCM?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/Mayyhem/SharpSCCM?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
+  
+![SharpSCCM](img/sharpsccm.png)  
   
 > SharpSCCM is a post-exploitation tool designed to leverage Microsoft Endpoint Configuration Manager (a.k.a. ConfigMgr, formerly SCCM) for lateral movement and credential gathering without requiring access to the SCCM administration console GUI.  
 
@@ -215,6 +186,37 @@ The following projects are some larger open-source projects SpecterOps has, and 
 |Resource|Link|
 | :--- | :--- |
 |GitHub|<https://github.com/0xthirteen/StayKit>|
+  
+</details>  
+
+## Covenant
+  
+![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/cobbr/Covenant?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/cobbr/Covenant?color=5465FF&style=social)  
+<details><summary>More Info</summary>  
+  
+![Covenant](img/covenant.png)  
+  
+> Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.  
+
+|Resource|Link|
+| :--- | :--- |
+|GitHub|<https://github.com/cobbr/Covenant>|
+|Homepage|<https://cobbr.io/Covenant.html>|
+|Documentation|https://github.com/cobbr/Covenant/wiki|
+  
+</details>  
+
+## SharpSploit
+  
+![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/cobbr/SharpSploit?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/cobbr/SharpSploit?color=5465FF&style=social)  
+<details><summary>More Info</summary>  
+  
+> SharpSploit is a .NET post-exploitation library written in C# that aims to highlight the attack surface of .NET and make the use of offensive .NET easier for red teamers.  
+
+|Resource|Link|
+| :--- | :--- |
+|GitHub|<https://github.com/cobbr/SharpSploit>|
+|Homepage|<https://sharpsploit.cobbr.io/api/>|
   
 </details>  
 
@@ -363,7 +365,7 @@ SpecterOps employees have also created and contributed to many other projects, t
 - [MythicMeta/Mythic_Scripting](https://github.com/MythicMeta/Mythic_Scripting)  
   - Mythic Scripting PyPi package - mythic  
 - [GhostManager/mythic_sync](https://github.com/GhostManager/mythic_sync)  
-  - Standalone Mythic C2 operation logging script for Ghostwriter v2.0+  
+  - Automated activity logging utility for Mythic C2 v3.0+ with Ghostwriter v3.0+  
 - [GhostManager/Ghostwriter_CLI](https://github.com/GhostManager/Ghostwriter_CLI)  
   - Golang CLI binary used for installing and managing Ghostwriter  
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)  
