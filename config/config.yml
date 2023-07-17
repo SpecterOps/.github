@@ -20,7 +20,7 @@ copy:
     At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
     
 
-    SpecterOps employees control their projects and maintain intellectual property rights and licenses, so most of the projects sponsored by SpecterOps are spread out over many individual GitHub profiles and organizations. We have organized these projects here for your perusal.
+    SpecterOps employees control their projects and maintain intellectual property rights and licenses, so most of the projects supported by SpecterOps are spread out over many individual GitHub profiles and organizations. We have organized these projects here for your perusal.
     
     
     You can read more about our commitment to transparency here: [A Push Toward Transparency](https://posts.specterops.io/a-push-toward-transparency-c385a0dd1e34)
@@ -106,7 +106,7 @@ projects:
       "gophish-notifier",
     ]
   - profile: "luv2crawl"
-    repos: [ "Cartographer" ]
+    repos: [ "DisplayOnlyCartographer" ]
   - profile: "Ne0nd0g"
     repos: [ "merlin" ]
   - profile: "cobbr"
@@ -252,20 +252,17 @@ featured:
     type: "red"
     img: "merlin.png"
 
-  - repo: "covenant"
-    type: "red"
-    img: "covenant.png"
-    documentation: "https://github.com/cobbr/Covenant/wiki"
-
   - repo: "hardhatc2"
     type: "red"
     img: "harhat.png"
 
-  - repo: "sharpsploit"
-    type: "red"
-
   - repo: "sharpsccm"
     type: "red"
+    img: "sharpsccm.png"
+
+  - repo: "displayonlycartographer"
+    type: "blue"
+    website: "https://cartographer.run/"
 
   - repo: "cs2modrewrite"
     type: "red"
@@ -283,6 +280,14 @@ featured:
     type: "red"
 
   - repo: "staykit"
+    type: "red"
+
+  - repo: "covenant"
+    type: "red"
+    img: "covenant.png"
+    documentation: "https://github.com/cobbr/Covenant/wiki"
+
+  - repo: "sharpsploit"
     type: "red"
 
   - repo: "powersploit"
