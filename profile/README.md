@@ -21,7 +21,7 @@ The following projects are some larger open-source projects SpecterOps has, and 
 ![license](https://img.shields.io/badge/license-Apache--2.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20%26%20Blue%20Team-966FD6) ![Slack](https://img.shields.io/badge/language-Go-5465FF) ![forks](https://img.shields.io/github/forks/SpecterOps/BloodHound?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/SpecterOps/BloodHound?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![BloodHound](../img/bloodhound.png)  
+![BloodHound](img/bloodhound.png)  
   
 > BloodHound Community Edition uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory or Azure environment.  
 
@@ -350,7 +350,7 @@ SpecterOps employees have also created and contributed to many other projects, t
 - [BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound)  
   - C# Data Collector for BloodHound  
 - [BloodHoundAD/SharpHoundCommon](https://github.com/BloodHoundAD/SharpHoundCommon)  
-  - Common library used by SharpHound.     
+  - Common library used by SharpHound.   
 - [MythicAgents/apfell](https://github.com/MythicAgents/apfell)  
   - JavaScript for Automation (JXA) macOS agent  
 - [MythicAgents/poseidon](https://github.com/MythicAgents/poseidon)  
