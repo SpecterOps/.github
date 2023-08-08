@@ -150,11 +150,16 @@ projects:
     org: True
     repos: [
       "BARK",
-      "BloodHound",
-      "BloodHound-Tools",
       "AzureHound",
       "SharpHound",
       "SharpHoundCommon",
+    ]
+  - profile: "SpecterOps"
+    org: True
+    repos: [
+      "BloodHound",
+      "Bloodhound-Tools",
+      "Nemesis",
     ]
   - profile: "MythicAgents"
     org: True
@@ -236,7 +241,11 @@ featured:
   - repo: "bloodhound"
     type: "purple"
     img: "bloodhound.png"
-    documentation: "https://bloodhound.readthedocs.io/en/latest/index.html"
+    documentation: "https://support.bloodhoundenterprise.io/"
+
+  - repo: "nemesis"
+    type: "red"
+    img: "nemesis.png"
 
   - repo: "ghostwriter"
     type: "red"
@@ -302,7 +311,10 @@ featured:
 # You can override the `name`, `license` SPDX ID, and `description`
 overrides:
   - repo: "bloodhound"
-    description: "BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory or Azure environment."
+    description: "BloodHound Community Edition uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory or Azure environment."
+
+  - repo: "nemesis"
+    description: "Nemesis is a centralized data processing platform that ingests, enriches, and performs analytics on offensive security assessment data. It ingests data from a variety of sources (C2 frameworks, manual file uploads, Chrome downloads, etc.) and performs a number of automations and analytics on the collected data. It is a SpecterOps R&D project aiming to automate a number of repetitive tasks operators encounter on engagements, empower operators' analytic capabilities and collective knowledge, and create data stores of as much operational data as possible to help guide future research and facilitate offensive data analysis."
 
   - repo: "ghostwriter"
     description: "Ghostwriter is a part of your team. It helps you manage clients, projects, reports, and infrastructure in one application. It does not replace some of the more common or traditional project management tools, such as CRMs. Still, it does consolidate all relevant project information in a way for users to easily curate every aspect of their projects."
