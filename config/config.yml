@@ -314,6 +314,7 @@ overrides:
     description: "BloodHound Community Edition uses graph theory to reveal the hidden and often unintended relationships within an Active Directory or Azure environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory or Azure environment."
 
   - repo: "nemesis"
+    license: "BSD-3-Clause"
     description: "Nemesis is a centralized data processing platform that ingests, enriches, and performs analytics on offensive security assessment data. It ingests data from a variety of sources (C2 frameworks, manual file uploads, Chrome downloads, etc.) and performs a number of automations and analytics on the collected data. It is a SpecterOps R&D project aiming to automate a number of repetitive tasks operators encounter on engagements, empower operators' analytic capabilities and collective knowledge, and create data stores of as much operational data as possible to help guide future research and facilitate offensive data analysis."
 
   - repo: "ghostwriter"
