@@ -38,12 +38,6 @@ copy:
 # There is also an optional `org` boolean value that can be set to `true` if the profile is an organization
 # Organizations may have members and repositories that are not directly related to SpecterOps
 projects:
-  - profile: "001SPARTaN"
-    repos: [
-      "SaltedCaramel",
-      "aggressor_scripts",
-      "FaceDancer",
-    ]
   - profile: "Mayyhem"
     repos: [
       "SharpSCCM",
@@ -87,19 +81,8 @@ projects:
       "AbstractionMaps",
       "abstraction-workshop",
     ]
-  - profile: "jsecurity101"
-    repos: [
-      "Marvel-Lab",
-      "Windows-API-To-Sysmon-Events",
-    ]
   - profile: "leechristensen"
     repos: [ "SpoolSample" ]
-  - profile: "matterpreter"
-    repos: [
-      "OffensiveCSharp",
-      "DefenderCheck",
-      "Shhmon",
-    ]
   - profile: "t94j0"
     repos: [
       "satellite",
