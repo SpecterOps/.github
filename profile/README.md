@@ -272,12 +272,6 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 SpecterOps employees have also created and contributed to many other projects, too numerous to list in detail here. These projects are listed below, sorted by the owner's profile.  
   
-- [001SPARTaN/SaltedCaramel](https://github.com/001SPARTaN/SaltedCaramel)  
-  - Apfell implant written in C#.  
-- [001SPARTaN/aggressor_scripts](https://github.com/001SPARTaN/aggressor_scripts)  
-  - A collection of useful scripts for Cobalt Strike  
-- [001SPARTaN/FaceDancer](https://github.com/001SPARTaN/FaceDancer)  
-  - Playing around with token manipulation in C#.  
 - [breakid/SharpCompress](https://github.com/breakid/SharpCompress)  
   - C# application for compressing files and directories  
 - [breakid/SharpUtils](https://github.com/breakid/SharpUtils)  
@@ -316,18 +310,8 @@ SpecterOps employees have also created and contributed to many other projects, t
   - Module to provide PowerShell functions that abstract Win32 API functions  
 - [jaredcatkinson/AbstractionMaps](https://github.com/jaredcatkinson/AbstractionMaps)  
 - [jaredcatkinson/abstraction-workshop](https://github.com/jaredcatkinson/abstraction-workshop)  
-- [jsecurity101/Marvel-Lab](https://github.com/jsecurity101/Marvel-Lab)  
-  - A collection of Powershell scripts that will help automate the build process for a Marvel domain.   
-- [jsecurity101/Windows-API-To-Sysmon-Events](https://github.com/jsecurity101/Windows-API-To-Sysmon-Events)  
-  - A repository that maps API calls to Sysmon Event ID's.  
 - [leechristensen/SpoolSample](https://github.com/leechristensen/SpoolSample)  
   - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface.  This is possible via other protocols as well.  
-- [matterpreter/OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp)  
-  - Collection of Offensive C# Tooling  
-- [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck)  
-  - Identifies the bytes that Microsoft Defender flags on.  
-- [matterpreter/Shhmon](https://github.com/matterpreter/Shhmon)  
-  - Neutering Sysmon via driver unload  
 - [t94j0/satellite](https://github.com/t94j0/satellite)  
   - easy-to-use payload hosting  
 - [t94j0/gophish-notifier](https://github.com/t94j0/gophish-notifier)  
