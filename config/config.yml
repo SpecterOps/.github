@@ -133,7 +133,6 @@ projects:
     org: True
     repos: [
       "BloodHound",
-      "Bloodhound-Tools",
       "Nemesis",
     ]
   - profile: "MythicAgents"
