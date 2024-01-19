@@ -42,12 +42,6 @@ projects:
     repos: [
       "SharpSCCM",
     ]
-  - profile: "breakid"
-    repos: [
-      "SharpCompress",
-      "SharpUtils",
-      "SharpFirewall",
-    ]
   - profile: "chrismaddalena"
     repos: [
       "DocPatch",
@@ -88,8 +82,6 @@ projects:
       "satellite",
       "gophish-notifier",
     ]
-  - profile: "luv2crawl"
-    repos: [ "DisplayOnlyCartographer" ]
   - profile: "Ne0nd0g"
     repos: [ "merlin" ]
   - profile: "cobbr"
