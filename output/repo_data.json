@@ -6,7 +6,7 @@
         "url": "https://github.com/SpecterOps/BloodHound",
         "isArchived": false,
         "createdAt": "2023-08-03T19:20:06Z",
-        "pushedAt": "2024-01-19T23:12:38Z",
+        "pushedAt": "2024-01-19T23:26:49Z",
         "homepageUrl": "https://bloodhoundenterprise.io/",
         "forkCount": 58,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/674367771/eea781ca-8a03-4299-9b16-03c11be7623a",
@@ -195,7 +195,7 @@
         "url": "https://github.com/SpecterOps/Nemesis",
         "isArchived": false,
         "createdAt": "2023-07-13T18:24:24Z",
-        "pushedAt": "2024-01-19T21:09:01Z",
+        "pushedAt": "2024-01-19T23:26:18Z",
         "homepageUrl": "",
         "forkCount": 36,
         "openGraphImageUrl": "https://opengraph.githubassets.com/c6db24f18f091f58bd6bb85160eba480860fd02e6d0d8d85aa44a922727b5170/SpecterOps/Nemesis",
@@ -531,8 +531,8 @@
         "pushedAt": "2024-01-19T22:25:42Z",
         "homepageUrl": "",
         "forkCount": 395,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/a834aa7d8acfe7e679849f0bfe20af4e056f376a1dccbcad63980dad560afaa9/its-a-feature/Mythic",
-        "stargazerCount": 2685,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/a542be2c5ff812118ec806a57866964d026ab7df3e9eceb69f2fc09ab66a82de/its-a-feature/Mythic",
+        "stargazerCount": 2686,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -2143,210 +2143,6 @@
         "img": "empire.png",
         "type": "red",
         "featured": true,
-        "extras": []
-    },
-    "sharpcompress": {
-        "name": "SharpCompress",
-        "nameWithOwner": "breakid/SharpCompress",
-        "description": "C# application for compressing files and directories",
-        "url": "https://github.com/breakid/SharpCompress",
-        "isArchived": false,
-        "createdAt": "2022-07-15T23:54:09Z",
-        "pushedAt": "2022-09-18T16:39:36Z",
-        "homepageUrl": null,
-        "forkCount": 1,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/3c5b396cd6105e4e678046abf9661798d358ea0e5500a2787fc0d66a0ec602f4/breakid/SharpCompress",
-        "stargazerCount": 1,
-        "isEmpty": false,
-        "isFork": false,
-        "isInOrganization": false,
-        "isMirror": false,
-        "isPrivate": false,
-        "latestRelease": null,
-        "licenseInfo": {
-            "name": "GNU General Public License v3.0",
-            "nickname": "GNU GPLv3",
-            "spdxId": "GPL-3.0"
-        },
-        "languages": {
-            "edges": [
-                {
-                    "node": {
-                        "name": "C#"
-                    },
-                    "size": 10244
-                }
-            ],
-            "totalCount": 1,
-            "totalSize": 10244
-        },
-        "issues": {
-            "totalCount": 0
-        },
-        "mentionableUsers": {
-            "nodes": [
-                {
-                    "login": "breakid",
-                    "name": "Dan",
-                    "bio": "",
-                    "company": null
-                },
-                {
-                    "login": "r00t0v3rr1d3",
-                    "name": "Chris Shields",
-                    "bio": "",
-                    "company": null
-                }
-            ]
-        },
-        "owner": {
-            "login": "breakid",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1446918?u=754bdaa41b2046e913ae90c19e24d94d2a28a349&v=4"
-        },
-        "releases": {
-            "totalCount": 0
-        },
-        "img": null,
-        "type": "red",
-        "featured": false,
-        "extras": []
-    },
-    "sharputils": {
-        "name": "SharpUtils",
-        "nameWithOwner": "breakid/SharpUtils",
-        "description": "A collection of C# utilities intended to be used with Cobalt Strike's execute-assembly",
-        "url": "https://github.com/breakid/SharpUtils",
-        "isArchived": false,
-        "createdAt": "2020-02-02T05:47:40Z",
-        "pushedAt": "2023-05-14T05:27:40Z",
-        "homepageUrl": null,
-        "forkCount": 12,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/db2a9b820e3147e3e32135c37c225edf95c3600619c619b502319e9ecb3b8cd3/breakid/SharpUtils",
-        "stargazerCount": 42,
-        "isEmpty": false,
-        "isFork": false,
-        "isInOrganization": false,
-        "isMirror": false,
-        "isPrivate": false,
-        "latestRelease": null,
-        "licenseInfo": {
-            "name": "GNU General Public License v3.0",
-            "nickname": "GNU GPLv3",
-            "spdxId": "GPL-3.0"
-        },
-        "languages": {
-            "edges": [
-                {
-                    "node": {
-                        "name": "C#"
-                    },
-                    "size": 187784
-                },
-                {
-                    "node": {
-                        "name": "PowerShell"
-                    },
-                    "size": 7780
-                }
-            ],
-            "totalCount": 2,
-            "totalSize": 195564
-        },
-        "issues": {
-            "totalCount": 0
-        },
-        "mentionableUsers": {
-            "nodes": [
-                {
-                    "login": "breakid",
-                    "name": "Dan",
-                    "bio": "",
-                    "company": null
-                },
-                {
-                    "login": "r00t0v3rr1d3",
-                    "name": "Chris Shields",
-                    "bio": "",
-                    "company": null
-                },
-                {
-                    "login": "CyberThulhu22",
-                    "name": "Jesse Leverett",
-                    "bio": "\ud83d\udc7e InfoSec | Junior Dev |  Security Researcher | Analyst | Hacker \ud83d\udc7e\udb40\udc20\udb40\udc20\udb40\udc20\udb40\udc20\udb40\udc20 OSCP | GCIH | GCPN | Security+ | Pentest+ | CySA+ | CNSP | CSAP | CVNP \ud83d\udc7e",
-                    "company": "United States Air Force"
-                }
-            ]
-        },
-        "owner": {
-            "login": "breakid",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1446918?u=754bdaa41b2046e913ae90c19e24d94d2a28a349&v=4"
-        },
-        "releases": {
-            "totalCount": 0
-        },
-        "img": null,
-        "type": "red",
-        "featured": false,
-        "extras": []
-    },
-    "sharpfirewall": {
-        "name": "SharpFirewall",
-        "nameWithOwner": "breakid/SharpFirewall",
-        "description": "C# application for interacting with Windows Firewall",
-        "url": "https://github.com/breakid/SharpFirewall",
-        "isArchived": false,
-        "createdAt": "2021-05-16T22:50:38Z",
-        "pushedAt": "2022-09-19T02:42:48Z",
-        "homepageUrl": null,
-        "forkCount": 0,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/6cb47b6829049bc4db05f25c0256ebe7311eceb9ff6e0e5e2b8f32e59c6c5529/breakid/SharpFirewall",
-        "stargazerCount": 2,
-        "isEmpty": false,
-        "isFork": false,
-        "isInOrganization": false,
-        "isMirror": false,
-        "isPrivate": false,
-        "latestRelease": null,
-        "licenseInfo": {
-            "name": "GNU General Public License v3.0",
-            "nickname": "GNU GPLv3",
-            "spdxId": "GPL-3.0"
-        },
-        "languages": {
-            "edges": [
-                {
-                    "node": {
-                        "name": "C#"
-                    },
-                    "size": 30386
-                }
-            ],
-            "totalCount": 1,
-            "totalSize": 30386
-        },
-        "issues": {
-            "totalCount": 0
-        },
-        "mentionableUsers": {
-            "nodes": [
-                {
-                    "login": "breakid",
-                    "name": "Dan",
-                    "bio": "",
-                    "company": null
-                }
-            ]
-        },
-        "owner": {
-            "login": "breakid",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1446918?u=754bdaa41b2046e913ae90c19e24d94d2a28a349&v=4"
-        },
-        "releases": {
-            "totalCount": 0
-        },
-        "img": null,
-        "type": "red",
-        "featured": false,
         "extras": []
     },
     "docpatch": {
@@ -5241,7 +5037,7 @@
         "url": "https://github.com/MythicAgents/apfell",
         "isArchived": false,
         "createdAt": "2021-03-16T18:48:23Z",
-        "pushedAt": "2023-12-22T14:45:08Z",
+        "pushedAt": "2024-01-19T23:30:27Z",
         "homepageUrl": null,
         "forkCount": 15,
         "openGraphImageUrl": "https://opengraph.githubassets.com/20f7b00de2d13ab0bf62ba0944efe59b31bac6ebf35484e06290413351ffe33f/MythicAgents/apfell",
@@ -6070,8 +5866,8 @@
         "pushedAt": "2024-01-17T18:42:29Z",
         "homepageUrl": null,
         "forkCount": 745,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/30e48bb48d1582e7bb221277d9b05380503d10b71cadc3bf8e70bcec1d69df3d/GhostPack/Rubeus",
-        "stargazerCount": 3644,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/db40c30f77d0661c8be6ecd4ebffbff4150f6dbbd65a732a8088a9673284847c/GhostPack/Rubeus",
+        "stargazerCount": 3643,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,

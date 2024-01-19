@@ -272,12 +272,6 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 SpecterOps employees have also created and contributed to many other projects, too numerous to list in detail here. These projects are listed below, sorted by the owner's profile.  
   
-- [breakid/SharpCompress](https://github.com/breakid/SharpCompress)  
-  - C# application for compressing files and directories  
-- [breakid/SharpUtils](https://github.com/breakid/SharpUtils)  
-  - A collection of C# utilities intended to be used with Cobalt Strike's execute-assembly  
-- [breakid/SharpFirewall](https://github.com/breakid/SharpFirewall)  
-  - C# application for interacting with Windows Firewall  
 - [chrismaddalena/DocPatch](https://github.com/chrismaddalena/DocPatch)  
   - A simple script that edits the XML of a macro-enabled Word document (.docm or Word 97 document) to add a reference to a remote stylesheet.  
 - [chrismaddalena/SharpCloud](https://github.com/chrismaddalena/SharpCloud)  
