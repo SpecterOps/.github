@@ -124,7 +124,20 @@ The following projects are some larger open-source projects SpecterOps has, and 
 | :--- | :--- |
 |GitHub|<https://github.com/Mayyhem/SharpSCCM>|
   
-</details>  
+</details> 
+
+## Misconfiguration Manager
+
+![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20%26%20Blue%20Team-966FD6) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/subat0mik/Misconfiguration-Manager?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/subat0mik/Misconfiguration-Manager?color=5465FF&style=social)  
+<details><summary>More Info</summary>  
+  
+> Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
+
+|Resource|Link|
+| :--- | :--- |
+|GitHub|<https://github.com/subat0mik/Misconfiguration-Manager>|
+  
+</details> 
 
 ## CS2ModRewrite
   
