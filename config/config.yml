@@ -42,12 +42,6 @@ projects:
     repos: [
       "SharpSCCM",
     ]
-  - profile: "breakid"
-    repos: [
-      "SharpCompress",
-      "SharpUtils",
-      "SharpFirewall",
-    ]
   - profile: "chrismaddalena"
     repos: [
       "DocPatch",
@@ -88,8 +82,6 @@ projects:
       "satellite",
       "gophish-notifier",
     ]
-  - profile: "luv2crawl"
-    repos: [ "DisplayOnlyCartographer" ]
   - profile: "Ne0nd0g"
     repos: [ "merlin" ]
   - profile: "cobbr"
@@ -141,7 +133,6 @@ projects:
     org: True
     repos: [
       "BloodHound",
-      "Bloodhound-Tools",
       "Nemesis",
     ]
   - profile: "MythicAgents"
@@ -209,6 +200,10 @@ projects:
     repos: [
       "HardHatC2",
     ]
+  - profile: "subat0mik"
+    repos: [
+      "Misconfiguration-Manager",
+    ]
 
 
 # Featured repositories and profile will be displayed more prominently in the README
@@ -252,17 +247,11 @@ featured:
     type: "red"
     img: "sharpsccm.png"
 
-  - repo: "displayonlycartographer"
-    type: "blue"
-    website: "https://cartographer.run/"
+  - repo: "misconfiguration-manager"
+    type: "purple"
+    img: "misconfiguration-manager.png"
 
   - repo: "cs2modrewrite"
-    type: "red"
-
-  - repo: "domainhunter"
-    type: "red"
-
-  - repo: "keethief"
     type: "red"
 
   - repo: "malleable-c2"
@@ -326,8 +315,9 @@ overrides:
   - repo: "malleable-c2"
     name: "Malleable C2"
 
-  - repo: "domainhunter"
-    name: "DomainHunter"
+  - repo: "misconfiguration-manager"
+    name: "Misconfiguration Manager"
+    description: "Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance."
 
   - repo: "cs2modrewrite"
     name: "CS2ModRewrite"
