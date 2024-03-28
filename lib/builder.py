@@ -201,6 +201,9 @@ class ReadMeBuilder:
         self.md_file.new_line(self.other.strip())
         self.md_file.new_line()
 
+        self.md_file.new_line("<details><summary>Expand</summary>")
+        self.md_file.new_line()
+
         for repo in self.data.values():
             if repo:
                 name = repo["name"]
@@ -216,3 +219,6 @@ class ReadMeBuilder:
                     self.md_file.new_line(f"- [{name_with_owner}]({url})")
                     if description:
                         self.md_file.new_line(f"  - {description}")
+
+        self.md_file.new_line("</details>")
+        self.md_file.new_line()
