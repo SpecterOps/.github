@@ -126,6 +126,22 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
+## Misconfiguration Manager
+  
+![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20%26%20Blue%20Team-966FD6) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/subat0mik/Misconfiguration-Manager?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/subat0mik/Misconfiguration-Manager?color=5465FF&style=social)  
+<details><summary>More Info</summary>  
+  
+![Misconfiguration Manager](img/misconfiguration-manager.png)  
+  
+> Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.  
+
+|Resource|Link|
+| :--- | :--- |
+|GitHub|<https://github.com/subat0mik/Misconfiguration-Manager>|
+|Homepage|<https://misconfigurationmanager.com>|
+  
+</details>  
+
 ## CS2ModRewrite
   
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/threatexpress/cs2modrewrite?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/threatexpress/cs2modrewrite?color=5465FF&style=social)  
@@ -139,36 +155,9 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
-## DomainHunter
-  
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/threatexpress/domainhunter?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/threatexpress/domainhunter?color=5465FF&style=social)  
-<details><summary>More Info</summary>  
-  
-> Checks expired domains for categorization/reputation and Archive.org history to determine good candidates for phishing and C2 domain names  
-
-|Resource|Link|
-| :--- | :--- |
-|GitHub|<https://github.com/threatexpress/domainhunter>|
-|Homepage|<http://threatexpress.com>|
-  
-</details>  
-
-## KeeThief
-  
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/GhostPack/KeeThief?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/GhostPack/KeeThief?color=5465FF&style=social)  
-<details><summary>More Info</summary>  
-  
-> Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.  
-
-|Resource|Link|
-| :--- | :--- |
-|GitHub|<https://github.com/GhostPack/KeeThief>|
-  
-</details>  
-
 ## Malleable C2
   
-![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/threatexpress/malleable-c2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/threatexpress/malleable-c2?color=5465FF&style=social)  
+![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/threatexpress/malleable-c2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/threatexpress/malleable-c2?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
 > Cobalt Strike Malleable C2 Design and Reference Guide  
@@ -272,6 +261,8 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 SpecterOps employees have also created and contributed to many other projects, too numerous to list in detail here. These projects are listed below, sorted by the owner's profile.  
   
+<details><summary>Expand</summary>  
+  
 - [chrismaddalena/DocPatch](https://github.com/chrismaddalena/DocPatch)  
   - A simple script that edits the XML of a macro-enabled Word document (.docm or Word 97 document) to add a reference to a remote stylesheet.  
 - [chrismaddalena/SharpCloud](https://github.com/chrismaddalena/SharpCloud)  
@@ -358,6 +349,8 @@ SpecterOps employees have also created and contributed to many other projects, t
   - Mythic Scripting PyPi package - mythic  
 - [GhostManager/mythic_sync](https://github.com/GhostManager/mythic_sync)  
   - Automated activity logging utility for Mythic C2 v3.0+ with Ghostwriter v3.0+  
+- [threatexpress/domainhunter](https://github.com/threatexpress/domainhunter)  
+  - Checks expired domains for categorization/reputation and Archive.org history to determine good candidates for phishing and C2 domain names  
 - [GhostManager/Ghostwriter_CLI](https://github.com/GhostManager/Ghostwriter_CLI)  
   - Golang CLI binary used for installing and managing Ghostwriter  
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)  
@@ -368,6 +361,8 @@ SpecterOps employees have also created and contributed to many other projects, t
   - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader  
 - [GhostPack/SharpUp](https://github.com/GhostPack/SharpUp)  
   - SharpUp is a C# port of various PowerUp functionality.  
+- [GhostPack/KeeThief](https://github.com/GhostPack/KeeThief)  
+  - Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory.  
 - [GhostPack/Certify](https://github.com/GhostPack/Certify)  
   - Active Directory certificate abuse.  
 - [GhostPack/SharpDPAPI](https://github.com/GhostPack/SharpDPAPI)  
@@ -393,4 +388,5 @@ SpecterOps employees have also created and contributed to many other projects, t
 - [GhostPack/SharpDump](https://github.com/GhostPack/SharpDump)  
   - SharpDump is a C# port of PowerSploit's Out-Minidump.ps1 functionality.  
 - [PowerShellMafia/PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM)  
-  - PowerSCCM - PowerShell module to interact with SCCM deployments
+  - PowerSCCM - PowerShell module to interact with SCCM deployments  
+</details>  
