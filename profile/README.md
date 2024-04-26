@@ -45,6 +45,7 @@ The following projects are some larger open-source projects SpecterOps has, and 
 |Resource|Link|
 | :--- | :--- |
 |GitHub|<https://github.com/SpecterOps/Nemesis>|
+|Homepage|<https://specterops.github.io/Nemesis/>|
   
 </details>  
 
