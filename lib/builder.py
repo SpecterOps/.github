@@ -71,9 +71,9 @@ class ReadMeBuilder:
         self.md_file.new_line(
             f"[![Slack](https://img.shields.io/badge/Slack-SpecterOps-{self.COLORS['green']})]({self.slack_invite})"
             " "
-            "[![Slack](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops)"
+            "[![Twitter](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops)"
             " "
-            "[![Slack](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)"
+            "[![Mastodon](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)"
         )
         self.md_file.new_line()
         self.md_file.new_line()
@@ -82,8 +82,11 @@ class ReadMeBuilder:
 
     def _build_featured(self) -> None:
         """Build the "Featured Projects" section of the README.md file."""
-        self.md_file.new_header(level=1, title="Featured Projects")
+        self.md_file.new_header(level=1, title=":fire: Featured Projects")
         self.md_file.new_line(self.featured.strip())
+        self.md_file.new_line()
+
+        self.md_file.new_line("<details><summary>Expand</summary>")
         self.md_file.new_line()
 
         for repo in self.data.values():
@@ -119,7 +122,7 @@ class ReadMeBuilder:
 
                 img = None
                 if repo["img"]:
-                    img = f"img/{repo['img']}"
+                    img = f"../img/{repo['img']}"
 
                 for project in self.overrides:
                     if project["repo"] == name.lower():
@@ -194,9 +197,12 @@ class ReadMeBuilder:
                     self.md_file.new_line("</details>")
                     self.md_file.new_line()
 
+        self.md_file.new_line("</details>")
+        self.md_file.new_line()
+
     def _build_other(self) -> None:
         """Build the final section of the README.md file."""
-        self.md_file.new_header(level=1, title="Other Projects")
+        self.md_file.new_header(level=1, title=":purple_heart: Other Projects")
         self.md_file.new_line()
         self.md_file.new_line(self.other.strip())
         self.md_file.new_line()
