@@ -334,11 +334,11 @@ SpecterOps employees have also created and contributed to many other projects, t
   - Currently not updated for WMIEvent module...  
 - [BloodHoundAD/BARK](https://github.com/BloodHoundAD/BARK)  
   - BloodHound Attack Research Kit  
-- [BloodHoundAD/AzureHound](https://github.com/BloodHoundAD/AzureHound)  
+- [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound)  
   - Azure Data Exporter for BloodHound  
-- [BloodHoundAD/SharpHound](https://github.com/BloodHoundAD/SharpHound)  
+- [SpecterOps/SharpHound](https://github.com/SpecterOps/SharpHound)  
   - C# Data Collector for BloodHound  
-- [BloodHoundAD/SharpHoundCommon](https://github.com/BloodHoundAD/SharpHoundCommon)  
+- [SpecterOps/SharpHoundCommon](https://github.com/SpecterOps/SharpHoundCommon)  
   - Common library used by SharpHound.   
 - [MythicAgents/apfell](https://github.com/MythicAgents/apfell)  
   - JavaScript for Automation (JXA) macOS agent  
