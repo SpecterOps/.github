@@ -6,11 +6,11 @@
         "url": "https://github.com/SpecterOps/BloodHound",
         "isArchived": false,
         "createdAt": "2023-08-03T19:20:06Z",
-        "pushedAt": "2025-03-07T18:03:28Z",
+        "pushedAt": "2025-03-14T17:59:32Z",
         "homepageUrl": "https://bloodhoundenterprise.io/",
-        "forkCount": 148,
+        "forkCount": 150,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/674367771/eea781ca-8a03-4299-9b16-03c11be7623a",
-        "stargazerCount": 1419,
+        "stargazerCount": 1444,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -32,7 +32,7 @@
                     "node": {
                         "name": "Dockerfile"
                     },
-                    "size": 12500
+                    "size": 12498
                 },
                 {
                     "node": {
@@ -44,13 +44,13 @@
                     "node": {
                         "name": "Go"
                     },
-                    "size": 4996481
+                    "size": 4996058
                 },
                 {
                     "node": {
                         "name": "JavaScript"
                     },
-                    "size": 25704
+                    "size": 26668
                 },
                 {
                     "node": {
@@ -62,7 +62,7 @@
                     "node": {
                         "name": "TypeScript"
                     },
-                    "size": 3518880
+                    "size": 3569864
                 },
                 {
                     "node": {
@@ -86,7 +86,7 @@
                     "node": {
                         "name": "CUE"
                     },
-                    "size": 64503
+                    "size": 64478
                 },
                 {
                     "node": {
@@ -108,7 +108,7 @@
                 }
             ],
             "totalCount": 13,
-            "totalSize": 8842232
+            "totalSize": 8893730
         },
         "issues": {
             "totalCount": 53
@@ -379,20 +379,20 @@
         "url": "https://github.com/GhostManager/Ghostwriter",
         "isArchived": false,
         "createdAt": "2019-07-16T21:19:43Z",
-        "pushedAt": "2025-03-05T20:38:41Z",
+        "pushedAt": "2025-03-13T22:32:13Z",
         "homepageUrl": "https://ghostwriter.wiki",
         "forkCount": 195,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/197269443/8c62cf80-b2c8-11e9-8401-8ace4a399dc8",
-        "stargazerCount": 1444,
+        "stargazerCount": 1447,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
         "isMirror": false,
         "isPrivate": false,
         "latestRelease": {
-            "publishedAt": "2025-02-28T22:55:11Z",
-            "tagName": "v5.0.3",
-            "name": "Ghostwriter v5.0.3"
+            "publishedAt": "2025-03-13T22:32:13Z",
+            "tagName": "v5.0.4",
+            "name": "Ghostwriter v5.0.4"
         },
         "licenseInfo": {
             "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -411,7 +411,7 @@
                     "node": {
                         "name": "Python"
                     },
-                    "size": 2374134
+                    "size": 2377215
                 },
                 {
                     "node": {
@@ -435,7 +435,7 @@
                     "node": {
                         "name": "HTML"
                     },
-                    "size": 712247
+                    "size": 713432
                 },
                 {
                     "node": {
@@ -447,7 +447,7 @@
                     "node": {
                         "name": "JavaScript"
                     },
-                    "size": 1108135
+                    "size": 1108459
                 },
                 {
                     "node": {
@@ -463,10 +463,10 @@
                 }
             ],
             "totalCount": 10,
-            "totalSize": 4668264
+            "totalSize": 4672854
         },
         "issues": {
-            "totalCount": 14
+            "totalCount": 13
         },
         "mentionableUsers": {
             "nodes": [
@@ -537,7 +537,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45499954?v=4"
         },
         "releases": {
-            "totalCount": 79
+            "totalCount": 80
         },
         "img": "ghostwriter.png",
         "type": "red",
@@ -556,11 +556,11 @@
         "url": "https://github.com/its-a-feature/Mythic",
         "isArchived": false,
         "createdAt": "2018-07-05T02:09:59Z",
-        "pushedAt": "2025-03-05T21:47:26Z",
+        "pushedAt": "2025-03-14T15:00:49Z",
         "homepageUrl": "",
-        "forkCount": 448,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/64c258c64df861d92fd084a83518a380c562bafc1d8d64bafff97a0efded8931/its-a-feature/Mythic",
-        "stargazerCount": 3461,
+        "forkCount": 453,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/e670f98458cf864077fed42076088c979a36958f90ecb572d3c50dbc1abbdcd2/its-a-feature/Mythic",
+        "stargazerCount": 3483,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -588,7 +588,7 @@
                     "node": {
                         "name": "JavaScript"
                     },
-                    "size": 2913019
+                    "size": 2912549
                 },
                 {
                     "node": {
@@ -600,7 +600,7 @@
                     "node": {
                         "name": "Shell"
                     },
-                    "size": 2694
+                    "size": 3159
                 },
                 {
                     "node": {
@@ -624,7 +624,7 @@
                     "node": {
                         "name": "Go"
                     },
-                    "size": 2059546
+                    "size": 2060886
                 },
                 {
                     "node": {
@@ -640,7 +640,7 @@
                 }
             ],
             "totalCount": 10,
-            "totalSize": 5421118
+            "totalSize": 5422453
         },
         "issues": {
             "totalCount": 13
@@ -735,9 +735,9 @@
         "createdAt": "2017-01-06T11:18:20Z",
         "pushedAt": "2025-02-26T22:19:34Z",
         "homepageUrl": "",
-        "forkCount": 812,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/a230ddb0ec656b67c111928580f75cda1eeeb11d2a56c4d3bba71faabdbbecbf/Ne0nd0g/merlin",
-        "stargazerCount": 5171,
+        "forkCount": 817,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/830b359acc181bfd41f5ff3b9b855b958cd4198c5758d4297bf28a6f02a850ff/Ne0nd0g/merlin",
+        "stargazerCount": 5179,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -866,8 +866,8 @@
         "pushedAt": "2024-03-28T02:30:02Z",
         "homepageUrl": "",
         "forkCount": 129,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/7fbb147b3be92361f197624c552af477564628d2450179f1d9c9d37419242f5c/DragoQCC/HardHatC2",
-        "stargazerCount": 987,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/cd4ffaaeae3ad8f870a9c07b74cbb87dca0a669ced88da684f508e69f4ace683/DragoQCC/HardHatC2",
+        "stargazerCount": 989,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -983,9 +983,9 @@
         "createdAt": "2021-08-19T05:09:19Z",
         "pushedAt": "2024-09-16T14:57:49Z",
         "homepageUrl": "",
-        "forkCount": 92,
+        "forkCount": 91,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/397823527/ddb73a62-8a49-49c3-b9ce-970343dc99cb",
-        "stargazerCount": 609,
+        "stargazerCount": 611,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -1078,8 +1078,8 @@
         "pushedAt": "2025-02-11T19:44:47Z",
         "homepageUrl": "https://misconfigurationmanager.com",
         "forkCount": 90,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/e6024723ef6d26dc03de5783c881e63380fdff63a2ba78995eb6f31bab960fb8/subat0mik/Misconfiguration-Manager",
-        "stargazerCount": 886,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/5a01a1e3f370c8de4861528684bd09ee201d0e159014ec85dab46765763c4681/subat0mik/Misconfiguration-Manager",
+        "stargazerCount": 887,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -1185,7 +1185,7 @@
         "createdAt": "2017-06-06T14:53:57Z",
         "pushedAt": "2023-01-30T17:47:51Z",
         "homepageUrl": null,
-        "forkCount": 115,
+        "forkCount": 116,
         "openGraphImageUrl": "https://opengraph.githubassets.com/73d7ccdfb77e8083222779625699cd4c20fb57317de8de8e59cbe4ca1d24ef89/threatexpress/cs2modrewrite",
         "stargazerCount": 593,
         "isEmpty": false,
@@ -1276,8 +1276,8 @@
         "pushedAt": "2023-12-13T17:14:22Z",
         "homepageUrl": null,
         "forkCount": 297,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/3055457f1a36c6c5cdc405cc8ae3b482870e84afa5b0129dd1b83f9694af1037/threatexpress/malleable-c2",
-        "stargazerCount": 1663,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/86e7b8b4a13502525974c341d459e47757b0dcef69959b65020d98555b226ace/threatexpress/malleable-c2",
+        "stargazerCount": 1665,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -1358,9 +1358,9 @@
         "createdAt": "2020-01-21T08:31:50Z",
         "pushedAt": "2022-11-13T05:29:33Z",
         "homepageUrl": null,
-        "forkCount": 545,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/835071a4b455a25633f0a1bf44985c800f6bb1cef6634db064bc700587e35de8/0xthirteen/SharpRDP",
-        "stargazerCount": 1024,
+        "forkCount": 548,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/be302014629420933c010e840063331ee7ce82f00e4ebbca4c2a69d41036a2d7/0xthirteen/SharpRDP",
+        "stargazerCount": 1026,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -1471,9 +1471,9 @@
         "createdAt": "2019-02-07T15:55:18Z",
         "pushedAt": "2024-07-18T17:25:35Z",
         "homepageUrl": "https://cobbr.io/Covenant.html",
-        "forkCount": 779,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/eaa130c566a5062d7fc855ac5168f9b74a9e018dec021384b8df0a7c98861386/cobbr/Covenant",
-        "stargazerCount": 4317,
+        "forkCount": 781,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/4cb505b13e8a62cbb7eab2ec3d9f5178dcd0c98f55804ead16ddbc8698919325/cobbr/Covenant",
+        "stargazerCount": 4323,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -1615,8 +1615,8 @@
         "pushedAt": "2021-08-12T18:23:15Z",
         "homepageUrl": "https://sharpsploit.cobbr.io/api/",
         "forkCount": 314,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/b2cc8c0d1fdda57aa9dddef1d9e2ef5fb6e7dddba1c4fee5cf40a913fbe52354/cobbr/SharpSploit",
-        "stargazerCount": 1778,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/6514e45e2754e27a27acab4433aae25bbaedea6b0c991cd75bdafb5b071d1035/cobbr/SharpSploit",
+        "stargazerCount": 1779,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -1728,9 +1728,9 @@
         "createdAt": "2012-05-26T16:08:48Z",
         "pushedAt": "2020-08-17T23:19:49Z",
         "homepageUrl": null,
-        "forkCount": 4649,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/a2174d02a32a408c99fe6eb0b35338b51295db2394cdd3f52cdfc8c4bf0d4bb6/PowerShellMafia/PowerSploit",
-        "stargazerCount": 12165,
+        "forkCount": 4657,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/7a116d75452c38aba6aa863b3179f3738500db9d3ed78791d8c20d87ea042a2e/PowerShellMafia/PowerSploit",
+        "stargazerCount": 12189,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -1864,9 +1864,9 @@
         "createdAt": "2015-08-05T18:25:57Z",
         "pushedAt": "2020-01-19T22:50:59Z",
         "homepageUrl": "http://www.powershellempire.com/",
-        "forkCount": 2825,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/e47c7df6fbac42c6e68120ff6b5ab5d28cabe108624b35ce5dbabd5fb6677a2a/EmpireProject/Empire",
-        "stargazerCount": 7556,
+        "forkCount": 2827,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/73c98533680bfd379d7918f5351138478aa3696c63a53ab1e596bc9c8a480323/EmpireProject/Empire",
+        "stargazerCount": 7560,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -2151,7 +2151,7 @@
         "pushedAt": "2022-01-06T17:50:50Z",
         "homepageUrl": "https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05",
         "forkCount": 113,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/00b82c79a1f1ceb7104af0146185b80ad376df312ed6ecb9f7aa22feeede5f9c/chrismaddalena/ODIN",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/57caa07bf522650554bb06eed729b8d882494ced1a73ade926771169194f70ef/chrismaddalena/ODIN",
         "stargazerCount": 638,
         "isEmpty": false,
         "isFork": false,
@@ -2287,8 +2287,8 @@
         "pushedAt": "2022-11-15T16:11:05Z",
         "homepageUrl": "",
         "forkCount": 50,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/4797901d3d009f5ec86c2b0cc97fb0d2ebd77a701f5f0bb7e74bd14903efbda0/chrismaddalena/Goreport",
-        "stargazerCount": 183,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/d00b4790b304d7bf086fd635029d97e73510b0c8343fc064beda56e471910594/chrismaddalena/Goreport",
+        "stargazerCount": 184,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -2527,8 +2527,8 @@
         "pushedAt": "2023-05-17T05:24:58Z",
         "homepageUrl": null,
         "forkCount": 49,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/8a1666cca7c1bba825374fc3449409fcee68558557495289a12c6ddaec1d3214/hotnops/gtunnel",
-        "stargazerCount": 260,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/65929aa8bd87f5841bf6ff52518e26e6d29931a42beb0f48ab9267d04edbac87/hotnops/gtunnel",
+        "stargazerCount": 261,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -2948,7 +2948,7 @@
         "createdAt": "2017-05-22T18:32:01Z",
         "pushedAt": "2024-06-06T01:50:42Z",
         "homepageUrl": "",
-        "forkCount": 58,
+        "forkCount": 59,
         "openGraphImageUrl": "https://opengraph.githubassets.com/25867be2653f6a173d958d12689df477a92fbbe2b0f0d3b00236b3110a3a9fe6/jaredcatkinson/PSReflect-Functions",
         "stargazerCount": 242,
         "isEmpty": false,
@@ -3188,8 +3188,8 @@
         "pushedAt": "2024-05-29T10:53:10Z",
         "homepageUrl": "",
         "forkCount": 144,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/49f3c515f2d622e07733822ab79811cb796ecb615310c9eb316b7adaf49af487/leechristensen/SpoolSample",
-        "stargazerCount": 965,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/c04c3b73fbbaf996aea7de62dc73051d4ccc41e0e79d331838dd227a9f767ed0/leechristensen/SpoolSample",
+        "stargazerCount": 968,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -3718,8 +3718,8 @@
         "pushedAt": "2024-06-26T15:54:52Z",
         "homepageUrl": null,
         "forkCount": 95,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/e2faac274c1d0e7103c0208a7a78c214ca4f31f3ae3bc3cbd7d1b2feb4601069/0xthirteen/SharpStay",
-        "stargazerCount": 462,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/b80fd62ab6b349d0288b09c4269d9c60bb8382ad749138af39e024f1c166d4d6/0xthirteen/SharpStay",
+        "stargazerCount": 463,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -3778,8 +3778,8 @@
         "pushedAt": "2023-02-08T23:48:54Z",
         "homepageUrl": null,
         "forkCount": 67,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/0d0a608765ac96a3ae74c1a7d789c56c114f40ef63bbbd841372866425c8d1ac/0xthirteen/SharpMove",
-        "stargazerCount": 390,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/6fbc2b287fc91aed3010bae58739944e854932a948bef69d727ea19008f15129/0xthirteen/SharpMove",
+        "stargazerCount": 389,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -3898,8 +3898,8 @@
         "pushedAt": "2022-10-06T13:28:47Z",
         "homepageUrl": "",
         "forkCount": 8,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/e00fb303c8b8037d847efc9868755959c334ed14834721f1f59d2351aeb0d23e/IceMoonHSV/PortScanner",
-        "stargazerCount": 43,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/5b7ea0a805bc338915a10c079488423c4b3a255999c868cd1ace6a62b05b1f2c/IceMoonHSV/PortScanner",
+        "stargazerCount": 44,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -4186,7 +4186,7 @@
         "pushedAt": "2023-11-16T10:31:37Z",
         "homepageUrl": "",
         "forkCount": 273,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/ca77ff0f5b24dee29eec9858f4d51f399122553b34d8f2ade1b5fdb604c7ebbb/Invoke-IR/PowerForensics",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/2d523ba1214273f50f191952397388e50be2f0cfd266b79480a5caad9f00c7c7/Invoke-IR/PowerForensics",
         "stargazerCount": 1392,
         "isEmpty": false,
         "isFork": false,
@@ -4447,9 +4447,9 @@
         "createdAt": "2022-05-06T03:50:25Z",
         "pushedAt": "2024-12-19T23:38:57Z",
         "homepageUrl": null,
-        "forkCount": 67,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/4d74044eac19b167c2a3b5b0bfbf2036e512b0c108536efec81a7f81c759f16d/BloodHoundAD/BARK",
-        "stargazerCount": 517,
+        "forkCount": 66,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/2f12bdef86f2d5d346ef1413eacf335f994814b0a51ab0b959c1dcb2968e2d33/BloodHoundAD/BARK",
+        "stargazerCount": 520,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -4561,9 +4561,9 @@
         "createdAt": "2022-05-26T18:48:33Z",
         "pushedAt": "2025-02-27T19:39:46Z",
         "homepageUrl": "",
-        "forkCount": 88,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/bf6b98d02d729340a83d4d6e25c7f3e9ec6e12d54740c69c1caf0a4c1398f85b/SpecterOps/AzureHound",
-        "stargazerCount": 643,
+        "forkCount": 89,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/33a9bd158f8d83b653ecbed03ce33041d604ace8f78b7b3887a8db85fc5be810/SpecterOps/AzureHound",
+        "stargazerCount": 644,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -4683,20 +4683,20 @@
         "url": "https://github.com/SpecterOps/SharpHound",
         "isArchived": false,
         "createdAt": "2021-07-12T17:07:04Z",
-        "pushedAt": "2025-03-04T23:22:05Z",
+        "pushedAt": "2025-03-13T17:43:45Z",
         "homepageUrl": "",
-        "forkCount": 189,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/33569dad3dfb9266d467657e4e6cb72c6d1b52ed64d2b3bfb5caf4690353383e/SpecterOps/SharpHound",
-        "stargazerCount": 855,
+        "forkCount": 190,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/d7ed2dc70ada1b1b83ced58f9fca943623bc701541acb906ec20aa8ba5f84c16/SpecterOps/SharpHound",
+        "stargazerCount": 862,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
         "isMirror": false,
         "isPrivate": false,
         "latestRelease": {
-            "publishedAt": "2025-03-04T23:22:05Z",
-            "tagName": "v2.6.0",
-            "name": "v2.6.0"
+            "publishedAt": "2025-03-13T17:43:45Z",
+            "tagName": "v2.6.1",
+            "name": "v2.6.1"
         },
         "licenseInfo": {
             "name": "GNU General Public License v3.0",
@@ -4709,7 +4709,7 @@
                     "node": {
                         "name": "C#"
                     },
-                    "size": 160855
+                    "size": 160887
                 },
                 {
                     "node": {
@@ -4725,7 +4725,7 @@
                 }
             ],
             "totalCount": 3,
-            "totalSize": 174476
+            "totalSize": 174508
         },
         "issues": {
             "totalCount": 16
@@ -4799,7 +4799,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/25406560?v=4"
         },
         "releases": {
-            "totalCount": 26
+            "totalCount": 27
         },
         "img": null,
         "type": "red",
@@ -4813,10 +4813,10 @@
         "url": "https://github.com/SpecterOps/SharpHoundCommon",
         "isArchived": false,
         "createdAt": "2021-04-15T19:24:31Z",
-        "pushedAt": "2025-03-04T20:31:36Z",
+        "pushedAt": "2025-03-13T17:21:05Z",
         "homepageUrl": null,
-        "forkCount": 47,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/47f278ecedf0f3daf9b0fa0d5baba5cb9157fc99e60e2f4d2869531a4f011f88/SpecterOps/SharpHoundCommon",
+        "forkCount": 46,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/c741db292ac6d6a8f7686e6e3e88ed807cf26de7e1c9580ab93ee9405356cb84/SpecterOps/SharpHoundCommon",
         "stargazerCount": 82,
         "isEmpty": false,
         "isFork": false,
@@ -4824,9 +4824,9 @@
         "isMirror": false,
         "isPrivate": false,
         "latestRelease": {
-            "publishedAt": "2025-03-04T20:27:31Z",
-            "tagName": "v4.2.2",
-            "name": "v4.2.2"
+            "publishedAt": "2025-03-13T17:16:57Z",
+            "tagName": "v4.2.3",
+            "name": "v4.2.3"
         },
         "licenseInfo": {
             "name": "GNU General Public License v3.0",
@@ -4839,7 +4839,7 @@
                     "node": {
                         "name": "C#"
                     },
-                    "size": 1129577
+                    "size": 1137388
                 },
                 {
                     "node": {
@@ -4861,7 +4861,7 @@
                 }
             ],
             "totalCount": 4,
-            "totalSize": 1153584
+            "totalSize": 1161395
         },
         "issues": {
             "totalCount": 6
@@ -4935,7 +4935,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/25406560?v=4"
         },
         "releases": {
-            "totalCount": 46
+            "totalCount": 47
         },
         "img": null,
         "type": "red",
@@ -4952,8 +4952,8 @@
         "pushedAt": "2025-02-21T20:12:22Z",
         "homepageUrl": null,
         "forkCount": 15,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/9276045c90b0d4111dff0c6679e24996005366de6c019ed87abdfddd74cf29d2/MythicAgents/apfell",
-        "stargazerCount": 70,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/d5367b0e4b30b0583ff4aae34b2c45e84c4ec4244e95bf47561390c23877f32a/MythicAgents/apfell",
+        "stargazerCount": 71,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -5037,10 +5037,10 @@
         "url": "https://github.com/MythicAgents/poseidon",
         "isArchived": false,
         "createdAt": "2021-03-16T18:48:43Z",
-        "pushedAt": "2025-03-05T20:04:18Z",
+        "pushedAt": "2025-03-12T22:58:08Z",
         "homepageUrl": "",
-        "forkCount": 33,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/87a726c75e5b3619ba78d1c63e1d60ef8b4d617a39f624506cb26d179ac80f06/MythicAgents/poseidon",
+        "forkCount": 34,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/eb2c3d9f6f6d062fc18d7cd6166dda9315c26ea34e47472af202dec706e28dcb/MythicAgents/poseidon",
         "stargazerCount": 136,
         "isEmpty": false,
         "isFork": false,
@@ -5069,7 +5069,7 @@
                     "node": {
                         "name": "Go"
                     },
-                    "size": 683759
+                    "size": 683790
                 },
                 {
                     "node": {
@@ -5093,7 +5093,7 @@
                     "node": {
                         "name": "Makefile"
                     },
-                    "size": 9123
+                    "size": 9233
                 },
                 {
                     "node": {
@@ -5103,7 +5103,7 @@
                 }
             ],
             "totalCount": 7,
-            "totalSize": 833086
+            "totalSize": 833227
         },
         "issues": {
             "totalCount": 3
@@ -5173,11 +5173,11 @@
         "url": "https://github.com/MythicAgents/Apollo",
         "isArchived": false,
         "createdAt": "2020-11-09T08:05:16Z",
-        "pushedAt": "2025-03-04T00:27:30Z",
+        "pushedAt": "2025-03-13T18:27:15Z",
         "homepageUrl": null,
-        "forkCount": 96,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/41b9a88f35e8bcc51f4d1e7a9d032d497009f4301bfe4fa7a494d47aa431fd8d/MythicAgents/Apollo",
-        "stargazerCount": 463,
+        "forkCount": 97,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/36a7a07ac1b1c115d70e832024a22862e258d00b9a782360dac1f4a868f2325c/MythicAgents/Apollo",
+        "stargazerCount": 464,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -5199,13 +5199,13 @@
                     "node": {
                         "name": "Dockerfile"
                     },
-                    "size": 990
+                    "size": 964
                 },
                 {
                     "node": {
                         "name": "C#"
                     },
-                    "size": 1664901
+                    "size": 1666653
                 },
                 {
                     "node": {
@@ -5229,17 +5229,17 @@
                     "node": {
                         "name": "Python"
                     },
-                    "size": 348481
+                    "size": 342960
                 },
                 {
                     "node": {
                         "name": "JavaScript"
                     },
-                    "size": 55881
+                    "size": 65151
                 }
             ],
             "totalCount": 7,
-            "totalSize": 2130212
+            "totalSize": 2135687
         },
         "issues": {
             "totalCount": 8
@@ -5278,8 +5278,8 @@
                 },
                 {
                     "login": "puzzlepeaches",
-                    "name": null,
-                    "bio": "",
+                    "name": "ed",
+                    "bio": "python is mid",
                     "company": "@sprocketsecurity"
                 },
                 {
@@ -5673,8 +5673,8 @@
         "createdAt": "2017-03-01T11:16:26Z",
         "pushedAt": "2024-06-06T21:01:21Z",
         "homepageUrl": "http://threatexpress.com",
-        "forkCount": 290,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/9b49013711fb1ecf29500687fc979a8497072237f44035149720706134439bf5/threatexpress/domainhunter",
+        "forkCount": 291,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/d760b41fa1d017a811deb72b9a7efe2ac6568ee292c03ce8198ed4d78b7ee7f5/threatexpress/domainhunter",
         "stargazerCount": 1575,
         "isEmpty": false,
         "isFork": false,
@@ -5899,9 +5899,9 @@
         "createdAt": "2018-09-23T23:59:03Z",
         "pushedAt": "2025-02-01T12:32:55Z",
         "homepageUrl": null,
-        "forkCount": 800,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/db54773110b5010564f1c0e84263b629f65bb3fc1a3077d07f662c3be53c748d/GhostPack/Rubeus",
-        "stargazerCount": 4327,
+        "forkCount": 799,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/040942072e771417b4cd3b648407d33d12d17935712471e28af08000205b4654/GhostPack/Rubeus",
+        "stargazerCount": 4336,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -6024,8 +6024,8 @@
         "pushedAt": "2025-01-10T20:12:49Z",
         "homepageUrl": null,
         "forkCount": 713,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/e986052d5f901915146d08293dfc77f42f0d3484f05f19d8ce7c62a47b1c851a/GhostPack/Seatbelt",
-        "stargazerCount": 3982,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/2692d675262f4d61e050bf0bdad23979e2c6d9c43e1b258388a7143b68ed37c4/GhostPack/Seatbelt",
+        "stargazerCount": 3988,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -6240,8 +6240,8 @@
         "pushedAt": "2024-02-14T16:38:26Z",
         "homepageUrl": null,
         "forkCount": 252,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/a4f23480306d32192f6418924fc8f3d6d02ac7ca28e4a71f84972472d2d4b924/GhostPack/SharpUp",
-        "stargazerCount": 1320,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/29dfdc99667fba232e799cab2835318d7993447d3cbb4e4e63e919d9d384ca98/GhostPack/SharpUp",
+        "stargazerCount": 1321,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -6353,9 +6353,9 @@
         "createdAt": "2016-07-10T19:11:23Z",
         "pushedAt": "2020-11-18T18:35:21Z",
         "homepageUrl": null,
-        "forkCount": 153,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/d4c9ac4ee438e5cc1e09d258af66d4def227eb0526dd39b9ed4ae11d6e962b82/GhostPack/KeeThief",
-        "stargazerCount": 936,
+        "forkCount": 154,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/591a6e926ce91aa3db8cc8e928e6ba6789d5cc31947bfec460f3f5d995c02416/GhostPack/KeeThief",
+        "stargazerCount": 937,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -6510,8 +6510,8 @@
         "pushedAt": "2024-08-12T13:04:04Z",
         "homepageUrl": null,
         "forkCount": 223,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/728f5780c9ba93978110d9614f03a9b45055f2e994e69341e82df30126d17c39/GhostPack/Certify",
-        "stargazerCount": 1607,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/d4e1fc6ba0d2faca2c6f04fe8d6804138864ec4cb8cf9bd9d9f34ea3cbf3e026/GhostPack/Certify",
+        "stargazerCount": 1610,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -6744,8 +6744,8 @@
         "pushedAt": "2022-07-13T23:41:38Z",
         "homepageUrl": null,
         "forkCount": 66,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/cfc32d4bd41fb46fbe4464cf910c23d9a4bcba7e976d83a82f90ce1d36f127cf/GhostPack/Koh",
-        "stargazerCount": 490,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/0a0666b7cd38ffc53645c8a8fcf88646074bf149ebc6e7676de2812cc36329d6/GhostPack/Koh",
+        "stargazerCount": 491,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -6876,8 +6876,8 @@
         "pushedAt": "2024-05-10T07:56:27Z",
         "homepageUrl": null,
         "forkCount": 35,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/98f0fc58468ffdfa4b488a71c934a922e9610f33d65290d68b965d02c965a793/GhostPack/DeepPass",
-        "stargazerCount": 209,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/58891e1765ae35705a6b49f6262f10adee8d5649091bb3a6bd889aa2b04bf165/GhostPack/DeepPass",
+        "stargazerCount": 210,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -7104,8 +7104,8 @@
         "pushedAt": "2024-02-28T15:10:15Z",
         "homepageUrl": null,
         "forkCount": 116,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/ee95b187ed6c295554d1ccda11d4e29a7f7293795ed729eea053448ad5af82fd/GhostPack/PSPKIAudit",
-        "stargazerCount": 846,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/3cd74c51b8de33bff2882dfc3af892a1841945f6740f6aed8df56963ffa08a41/GhostPack/PSPKIAudit",
+        "stargazerCount": 844,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -7185,7 +7185,7 @@
                 {
                     "login": "jakehildreth",
                     "name": "Jake Hildreth",
-                    "bio": "Husband, Dad, Nerd.\r\n\r\nI like making little tools to help people do stuff more easily.",
+                    "bio": "Husband, Dad, Recovering Sysadmin, Microsoft MVP. I like making little tools to help people do stuff more easily.",
                     "company": "@Semperis"
                 },
                 {
