@@ -99,18 +99,18 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
-## HardHatC2
+## CrucibleC2
   
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/HardHatC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/HardHatC2?color=5465FF&style=social)  
+![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/CrucibleC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/CrucibleC2?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
-![HardHatC2](../img/harhat.png)  
+![CrucibleC2](../img/harhat.png)  
   
 > A C# Command & Control framework   
 
 |Resource|Link|
 | :--- | :--- |
-|GitHub|<https://github.com/DragoQCC/HardHatC2>|
+|GitHub|<https://github.com/DragoQCC/CrucibleC2>|
   
 </details>  
 
