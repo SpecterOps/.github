@@ -37,7 +37,7 @@ The following projects are some larger open-source projects SpecterOps has, and 
 
 ## Nemesis
   
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-Python-5465FF) ![forks](https://img.shields.io/github/forks/SpecterOps/Nemesis?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/SpecterOps/Nemesis?color=5465FF&style=social)  
+![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-YARA-5465FF) ![forks](https://img.shields.io/github/forks/SpecterOps/Nemesis?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/SpecterOps/Nemesis?color=5465FF&style=social)  
 <details><summary>More Info</summary>  
   
 ![Nemesis](../img/nemesis.png)  
