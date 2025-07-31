@@ -9,7 +9,7 @@ github:
 
 community:
   # Open Slack invite link for the community
-  slack: "slack.specterops.io"
+  slack: "https://slack.specterops.io"
 
 # MarkDown-formatted text to be added to the README.md file
 # Use `>` to write a multi-line string and use two blank lines to signify a new paragraph for MarkDown
