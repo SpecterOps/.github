@@ -4,7 +4,7 @@ SpecterOps Open-Source Projects
   
 ![SpecterOps](../img/specterops-banner.png)  
   
-[![Slack](https://img.shields.io/badge/Slack-SpecterOps-02B36C)](slack.specterops.io) [![Twitter](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops) [![Mastodon](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)  
+[![Slack](https://img.shields.io/badge/Slack-SpecterOps-02B36C)](https://slack.specterops.io) [![Twitter](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops) [![Mastodon](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)  
   
 At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
 
