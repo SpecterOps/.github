@@ -207,7 +207,7 @@ projects:
     ]
   - profile: "DragoQCC"
     repos: [
-      "HardHatC2",
+      "CrucibleC2",
     ]
   - profile: "subat0mik"
     repos: [
@@ -248,9 +248,9 @@ featured:
     type: "red"
     img: "merlin.png"
 
-  - repo: "hardhatc2"
+  - repo: "CrucibleC2"
     type: "red"
-    img: "harhat.png"
+    img: "crucible.png"
 
   - repo: "sharpsccm"
     type: "red"
