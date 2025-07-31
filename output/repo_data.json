@@ -6,7 +6,7 @@
         "url": "https://github.com/SpecterOps/BloodHound",
         "isArchived": false,
         "createdAt": "2023-08-03T19:20:06Z",
-        "pushedAt": "2025-07-31T17:42:32Z",
+        "pushedAt": "2025-07-31T18:51:55Z",
         "homepageUrl": "https://bloodhoundenterprise.io/",
         "forkCount": 201,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/674367771/eea781ca-8a03-4299-9b16-03c11be7623a",
@@ -862,124 +862,6 @@
         "featured": true,
         "extras": []
     },
-    "hardhatc2": {
-        "name": "CrucibleC2",
-        "nameWithOwner": "DragoQCC/CrucibleC2",
-        "description": "A C# Command & Control framework ",
-        "url": "https://github.com/DragoQCC/CrucibleC2",
-        "isArchived": false,
-        "createdAt": "2022-12-08T19:40:47Z",
-        "pushedAt": "2024-03-28T02:30:02Z",
-        "homepageUrl": "",
-        "forkCount": 130,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/4ea726b0f4cd6e9094dbb6a2da27dd4e137ad3e0ed05c54b0a6f04d69cb031c0/DragoQCC/CrucibleC2",
-        "stargazerCount": 1005,
-        "isEmpty": false,
-        "isFork": false,
-        "isInOrganization": false,
-        "isMirror": false,
-        "isPrivate": false,
-        "latestRelease": {
-            "publishedAt": "2023-10-13T15:15:48Z",
-            "tagName": "V0.3.03-Alpha",
-            "name": "V0.3.03-Alpha"
-        },
-        "licenseInfo": {
-            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
-            "nickname": "Modified BSD License",
-            "spdxId": "BSD-3-Clause"
-        },
-        "languages": {
-            "edges": [
-                {
-                    "node": {
-                        "name": "C#"
-                    },
-                    "size": 1506586
-                },
-                {
-                    "node": {
-                        "name": "HTML"
-                    },
-                    "size": 548887
-                },
-                {
-                    "node": {
-                        "name": "CSS"
-                    },
-                    "size": 5815
-                },
-                {
-                    "node": {
-                        "name": "JavaScript"
-                    },
-                    "size": 150480
-                },
-                {
-                    "node": {
-                        "name": "Dockerfile"
-                    },
-                    "size": 707
-                }
-            ],
-            "totalCount": 5,
-            "totalSize": 2212475
-        },
-        "issues": {
-            "totalCount": 0
-        },
-        "mentionableUsers": {
-            "nodes": [
-                {
-                    "login": "breakid",
-                    "name": "Dan",
-                    "bio": "",
-                    "company": null
-                },
-                {
-                    "login": "fyxme",
-                    "name": "fyx",
-                    "bio": "",
-                    "company": null
-                },
-                {
-                    "login": "DragoQCC",
-                    "name": "Jon Owens",
-                    "bio": "DragoQCC personal projects",
-                    "company": null
-                },
-                {
-                    "login": "werdhaihai",
-                    "name": "Craig Wright",
-                    "bio": "",
-                    "company": "SpecterOps"
-                },
-                {
-                    "login": "whiterabb17",
-                    "name": "s1l3nt78",
-                    "bio": "",
-                    "company": null
-                },
-                {
-                    "login": "MozharAlhosni",
-                    "name": "Mozhar Alhosni",
-                    "bio": "I am a Cybersecurity expert. I want to specialize in Authentication and Authorization systems.",
-                    "company": null
-                }
-            ]
-        },
-        "owner": {
-            "login": "DragoQCC",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/15575425?u=8b01d7eb0401d207dd2357cd32f3162545d03281&v=4"
-        },
-        "releases": {
-            "totalCount": 5
-        },
-        "img": "harhat.png",
-        "type": "red",
-        "featured": true,
-        "extras": []
-    },
     "sharpsccm": {
         "name": "SharpSCCM",
         "nameWithOwner": "Mayyhem/SharpSCCM",
@@ -1288,8 +1170,8 @@
         "pushedAt": "2023-12-13T17:14:22Z",
         "homepageUrl": null,
         "forkCount": 299,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/8bfbd4d493db40955314bdf6e0d30dd73065150930ee4575b8ad1d46348e8a84/threatexpress/malleable-c2",
-        "stargazerCount": 1702,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/aedef89af3aa54a048cc1ee98308f3749907c36f0b30bdbdfd4e9e196c07822f/threatexpress/malleable-c2",
+        "stargazerCount": 1703,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -1741,8 +1623,8 @@
         "pushedAt": "2020-08-17T23:19:49Z",
         "homepageUrl": null,
         "forkCount": 4699,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/be3f2d63f6d60ecf447a2b3580116960c4ee381b0f904b92a6328e0d0a6aaac8/PowerShellMafia/PowerSploit",
-        "stargazerCount": 12491,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/8c8ffa2bd3e36bab59900910e98295c7268a573cae6caf590377f86b7ecadece/PowerShellMafia/PowerSploit",
+        "stargazerCount": 12490,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -4698,8 +4580,8 @@
         "pushedAt": "2025-07-30T14:48:00Z",
         "homepageUrl": "",
         "forkCount": 212,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/9e1a714aeff2b3c1f2929a31109ccfa80bdf9ad080e4704cd733c6542da00691/SpecterOps/SharpHound",
-        "stargazerCount": 1006,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/01bdab8f9ef343214e21375a62bf5e09eec2e1cc627ff9e97e0250d7caa53583/SpecterOps/SharpHound",
+        "stargazerCount": 1007,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -4825,10 +4707,10 @@
         "url": "https://github.com/SpecterOps/SharpHoundCommon",
         "isArchived": false,
         "createdAt": "2021-04-15T19:24:31Z",
-        "pushedAt": "2025-07-31T13:13:29Z",
+        "pushedAt": "2025-07-31T19:27:36Z",
         "homepageUrl": null,
         "forkCount": 50,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/d97e8b7e75ee7916dddce93a66fe0d51fa14dc66b4057a6154de0935e0776627/SpecterOps/SharpHoundCommon",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/0c0e83b59ae02d99e078c9762309615b05d686850bfb9a29bcbfd5c3274efc16/SpecterOps/SharpHoundCommon",
         "stargazerCount": 92,
         "isEmpty": false,
         "isFork": false,
@@ -4851,7 +4733,7 @@
                     "node": {
                         "name": "C#"
                     },
-                    "size": 1350241
+                    "size": 1350229
                 },
                 {
                     "node": {
@@ -4873,7 +4755,7 @@
                 }
             ],
             "totalCount": 4,
-            "totalSize": 1374248
+            "totalSize": 1374236
         },
         "issues": {
             "totalCount": 5
@@ -6673,7 +6555,7 @@
         "createdAt": "2018-09-23T23:59:03Z",
         "pushedAt": "2025-07-23T21:15:51Z",
         "homepageUrl": null,
-        "forkCount": 826,
+        "forkCount": 827,
         "openGraphImageUrl": "https://opengraph.githubassets.com/5250f70a50023814b48ece4afc83bc8d43d2c8b25673dd29452798599b5c4c9c/GhostPack/Rubeus",
         "stargazerCount": 4573,
         "isEmpty": false,
@@ -8688,6 +8570,124 @@
         "img": null,
         "type": "red",
         "featured": false,
+        "extras": []
+    },
+    "cruciblec2": {
+        "name": "CrucibleC2",
+        "nameWithOwner": "DragoQCC/CrucibleC2",
+        "description": "A C# Command & Control framework ",
+        "url": "https://github.com/DragoQCC/CrucibleC2",
+        "isArchived": false,
+        "createdAt": "2022-12-08T19:40:47Z",
+        "pushedAt": "2024-03-28T02:30:02Z",
+        "homepageUrl": "",
+        "forkCount": 130,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/4ea726b0f4cd6e9094dbb6a2da27dd4e137ad3e0ed05c54b0a6f04d69cb031c0/DragoQCC/CrucibleC2",
+        "stargazerCount": 1005,
+        "isEmpty": false,
+        "isFork": false,
+        "isInOrganization": false,
+        "isMirror": false,
+        "isPrivate": false,
+        "latestRelease": {
+            "publishedAt": "2023-10-13T15:15:48Z",
+            "tagName": "V0.3.03-Alpha",
+            "name": "V0.3.03-Alpha"
+        },
+        "licenseInfo": {
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "nickname": "Modified BSD License",
+            "spdxId": "BSD-3-Clause"
+        },
+        "languages": {
+            "edges": [
+                {
+                    "node": {
+                        "name": "C#"
+                    },
+                    "size": 1506586
+                },
+                {
+                    "node": {
+                        "name": "HTML"
+                    },
+                    "size": 548887
+                },
+                {
+                    "node": {
+                        "name": "CSS"
+                    },
+                    "size": 5815
+                },
+                {
+                    "node": {
+                        "name": "JavaScript"
+                    },
+                    "size": 150480
+                },
+                {
+                    "node": {
+                        "name": "Dockerfile"
+                    },
+                    "size": 707
+                }
+            ],
+            "totalCount": 5,
+            "totalSize": 2212475
+        },
+        "issues": {
+            "totalCount": 0
+        },
+        "mentionableUsers": {
+            "nodes": [
+                {
+                    "login": "breakid",
+                    "name": "Dan",
+                    "bio": "",
+                    "company": null
+                },
+                {
+                    "login": "fyxme",
+                    "name": "fyx",
+                    "bio": "",
+                    "company": null
+                },
+                {
+                    "login": "DragoQCC",
+                    "name": "Jon Owens",
+                    "bio": "DragoQCC personal projects",
+                    "company": null
+                },
+                {
+                    "login": "werdhaihai",
+                    "name": "Craig Wright",
+                    "bio": "",
+                    "company": "SpecterOps"
+                },
+                {
+                    "login": "whiterabb17",
+                    "name": "s1l3nt78",
+                    "bio": "",
+                    "company": null
+                },
+                {
+                    "login": "MozharAlhosni",
+                    "name": "Mozhar Alhosni",
+                    "bio": "I am a Cybersecurity expert. I want to specialize in Authentication and Authorization systems.",
+                    "company": null
+                }
+            ]
+        },
+        "owner": {
+            "login": "DragoQCC",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15575425?u=8b01d7eb0401d207dd2357cd32f3162545d03281&v=4"
+        },
+        "releases": {
+            "totalCount": 5
+        },
+        "img": "crucible.png",
+        "type": "red",
+        "featured": true,
         "extras": []
     }
 }
