@@ -6,11 +6,11 @@
         "url": "https://github.com/SpecterOps/BloodHound",
         "isArchived": false,
         "createdAt": "2023-08-03T19:20:06Z",
-        "pushedAt": "2025-07-31T18:51:55Z",
+        "pushedAt": "2025-07-31T22:23:13Z",
         "homepageUrl": "https://bloodhoundenterprise.io/",
         "forkCount": 201,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/674367771/eea781ca-8a03-4299-9b16-03c11be7623a",
-        "stargazerCount": 1863,
+        "stargazerCount": 1865,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
@@ -379,7 +379,7 @@
         "url": "https://github.com/GhostManager/Ghostwriter",
         "isArchived": false,
         "createdAt": "2019-07-16T21:19:43Z",
-        "pushedAt": "2025-07-31T16:42:29Z",
+        "pushedAt": "2025-07-31T20:20:36Z",
         "homepageUrl": "https://ghostwriter.wiki",
         "forkCount": 215,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/197269443/8c62cf80-b2c8-11e9-8401-8ace4a399dc8",
@@ -453,7 +453,7 @@
                     "node": {
                         "name": "SCSS"
                     },
-                    "size": 34159
+                    "size": 34237
                 },
                 {
                     "node": {
@@ -465,11 +465,11 @@
                     "node": {
                         "name": "TypeScript"
                     },
-                    "size": 162904
+                    "size": 163294
                 }
             ],
             "totalCount": 11,
-            "totalSize": 4876543
+            "totalSize": 4877011
         },
         "issues": {
             "totalCount": 16
@@ -4707,7 +4707,7 @@
         "url": "https://github.com/SpecterOps/SharpHoundCommon",
         "isArchived": false,
         "createdAt": "2021-04-15T19:24:31Z",
-        "pushedAt": "2025-07-31T19:27:36Z",
+        "pushedAt": "2025-07-31T21:22:10Z",
         "homepageUrl": null,
         "forkCount": 50,
         "openGraphImageUrl": "https://opengraph.githubassets.com/0c0e83b59ae02d99e078c9762309615b05d686850bfb9a29bcbfd5c3274efc16/SpecterOps/SharpHoundCommon",
@@ -4955,7 +4955,7 @@
         "url": "https://github.com/SpecterOps/DAWGS",
         "isArchived": false,
         "createdAt": "2025-06-12T21:02:03Z",
-        "pushedAt": "2025-07-31T16:24:32Z",
+        "pushedAt": "2025-07-31T20:17:10Z",
         "homepageUrl": null,
         "forkCount": 1,
         "openGraphImageUrl": "https://opengraph.githubassets.com/9e50ebb124ddab02d0d93f18e3bbc0f35073c84773f09cd99afdcb7f0ba8397c/SpecterOps/DAWGS",
@@ -5091,10 +5091,10 @@
         "url": "https://github.com/SpecterOps/MSSQLHound",
         "isArchived": false,
         "createdAt": "2025-07-24T20:43:59Z",
-        "pushedAt": "2025-07-31T16:15:41Z",
+        "pushedAt": "2025-07-31T20:50:11Z",
         "homepageUrl": null,
         "forkCount": 10,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/e0b5042002cce114848bcdb1e9e66bdbb6767c0e4278bdd1b5d8c50be1755bfa/SpecterOps/MSSQLHound",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/b01cf49c32a1a4d2bd28b9d8355536a3bb52502a8e64de2c600d49ef4d2eda48/SpecterOps/MSSQLHound",
         "stargazerCount": 138,
         "isEmpty": false,
         "isFork": false,
