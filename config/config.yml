@@ -9,13 +9,13 @@ github:
 
 community:
   # Open Slack invite link for the community
-  slack: "https://join.slack.com/t/bloodhoundhq/shared_invite/zt-1tgq6ojd2-ixpx5nz9Wjtbhc3i8AVAWw"
+  slack: "slack.specterops.io"
 
 # MarkDown-formatted text to be added to the README.md file
 # Use `>` to write a multi-line string and use two blank lines to signify a new paragraph for MarkDown
 copy:
   title: "SpecterOps Open-Source Projects"
-  banner: "../img/specterops-banner.jpg"
+  banner: "../img/specterops-banner.png"
   introduction: >
     At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
     
@@ -134,6 +134,14 @@ projects:
     repos: [
       "BloodHound",
       "Nemesis",
+      "BloodHoundQueryLibrary",
+      "DAWGS",
+      "MSSQLHound",
+      "JamfHound",
+      "AzureHound",
+      "1PassHound",
+      "GitHound",
+      "SnowHound"
     ]
   - profile: "MythicAgents"
     org: True
@@ -163,6 +171,7 @@ projects:
       "Ghostwriter",
       "Ghostwriter_CLI",
       "mythic_sync",
+      "cobalt_sync"
     ]
   - profile: "GhostPack"
     org: True
