@@ -99,6 +99,21 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
+## Crucible C2
+  
+![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/CrucibleC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/CrucibleC2?color=5465FF&style=social)  
+<details><summary>More Info</summary>  
+  
+![Crucible C2](../img/crucible.png)  
+  
+> Crucible is an extensible, multi-user, cross-platform framework designed for post-exploitation, command and control operations, penetration testing, and red teaming. Crucible's primary objective is to streamline deployment, enhance daily usability, and facilitate extensibility development while maintaining a user-friendly interface for operators. It supports custom, robust implementations and modularization, featuring libraries that simplify client UI plugin development, comprehensive documentation on implant development, and seamless integration, testing, logging, and error-handling capabilities. Crucible supports any JSON-capable language to create secure and modular implants using a wide array of communication protocols (HTTPS, TCP, SMB, WebSockets, etc.). It also contains a custom eventing and messaging framework that powers communication between Crucible and its plugins. Crucible's modern extensibility is achieved through in-memory .NET plugins or gRPC-based plugins, enabling remote communication with external applications regardless of language, allowing extensibility that fits both the operator's skill set and needs.  
+
+|Resource|Link|
+| :--- | :--- |
+|GitHub|<https://github.com/DragoQCC/CrucibleC2>|
+  
+</details>  
+
 ## SharpSCCM
   
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/Mayyhem/SharpSCCM?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/Mayyhem/SharpSCCM?color=5465FF&style=social)  
@@ -241,21 +256,6 @@ The following projects are some larger open-source projects SpecterOps has, and 
 | :--- | :--- |
 |GitHub|<https://github.com/EmpireProject/Empire>|
 |Homepage|<http://www.powershellempire.com/>|
-  
-</details>  
-
-## CrucibleC2
-  
-![license](https://img.shields.io/badge/license-BSD--3--Clause-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20Team-FF7E79) ![Slack](https://img.shields.io/badge/language-C%23-5465FF) ![forks](https://img.shields.io/github/forks/DragoQCC/CrucibleC2?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/DragoQCC/CrucibleC2?color=5465FF&style=social)  
-<details><summary>More Info</summary>  
-  
-![CrucibleC2](../img/crucible.png)  
-  
-> A C# Command & Control framework   
-
-|Resource|Link|
-| :--- | :--- |
-|GitHub|<https://github.com/DragoQCC/CrucibleC2>|
   
 </details>  
   
