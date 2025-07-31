@@ -6,7 +6,7 @@
         "url": "https://github.com/SpecterOps/BloodHound",
         "isArchived": false,
         "createdAt": "2023-08-03T19:20:06Z",
-        "pushedAt": "2025-07-31T22:23:13Z",
+        "pushedAt": "2025-07-31T23:07:59Z",
         "homepageUrl": "https://bloodhoundenterprise.io/",
         "forkCount": 201,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/674367771/eea781ca-8a03-4299-9b16-03c11be7623a",
@@ -1758,7 +1758,7 @@
         "createdAt": "2015-08-05T18:25:57Z",
         "pushedAt": "2020-01-19T22:50:59Z",
         "homepageUrl": "http://www.powershellempire.com/",
-        "forkCount": 2894,
+        "forkCount": 2896,
         "openGraphImageUrl": "https://opengraph.githubassets.com/91615891444f247141cda4735d18aa967220e400e2e4820a646886b285a7de83/EmpireProject/Empire",
         "stargazerCount": 7665,
         "isEmpty": false,
@@ -2843,8 +2843,8 @@
         "pushedAt": "2024-06-06T01:50:42Z",
         "homepageUrl": "",
         "forkCount": 59,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/352a8ff28ad6f30c3d0a36f1ee5d991eabf70aaa5e9bcd30f790930c8fc88b0c/jaredcatkinson/PSReflect-Functions",
-        "stargazerCount": 247,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/d1cb38da89a62af4f334130ba2420e532bde71b7b0b6d222d8493ed166e753d8/jaredcatkinson/PSReflect-Functions",
+        "stargazerCount": 248,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": false,
@@ -6073,10 +6073,10 @@
         "url": "https://github.com/GhostManager/mythic_sync",
         "isArchived": false,
         "createdAt": "2021-05-11T00:17:21Z",
-        "pushedAt": "2025-02-12T19:33:12Z",
+        "pushedAt": "2025-07-31T23:10:11Z",
         "homepageUrl": "https://docs.mythic-c2.net/",
         "forkCount": 8,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/d8dd69cd14f586f460fe6d2c704771e1e04d1d40573bf2a43ca261277f6d9952/GhostManager/mythic_sync",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/854f324892d8a34234ca20e944c0f032b945b61f0e18e5395d0b51bea5e2405e/GhostManager/mythic_sync",
         "stargazerCount": 19,
         "isEmpty": false,
         "isFork": false,
@@ -6084,9 +6084,9 @@
         "isMirror": false,
         "isPrivate": false,
         "latestRelease": {
-            "publishedAt": "2024-06-27T19:48:14Z",
-            "tagName": "v3.0.7",
-            "name": "mythic_sync v3.0.7"
+            "publishedAt": "2025-07-31T23:10:11Z",
+            "tagName": "v3.0.8",
+            "name": "mythic_sync v3.0.8"
         },
         "licenseInfo": {
             "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -6105,14 +6105,14 @@
                     "node": {
                         "name": "Python"
                     },
-                    "size": 30760
+                    "size": 32771
                 }
             ],
             "totalCount": 2,
-            "totalSize": 31013
+            "totalSize": 33024
         },
         "issues": {
-            "totalCount": 1
+            "totalCount": 0
         },
         "mentionableUsers": {
             "nodes": [
@@ -6183,7 +6183,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45499954?v=4"
         },
         "releases": {
-            "totalCount": 8
+            "totalCount": 9
         },
         "img": null,
         "type": "red",
