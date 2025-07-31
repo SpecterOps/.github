@@ -4,7 +4,7 @@ SpecterOps Open-Source Projects
   
 ![SpecterOps](../img/specterops-banner.png)  
   
-[![Slack](https://img.shields.io/badge/Slack-SpecterOps-02B36C)](https://join.slack.com/t/bloodhoundhq/shared_invite/zt-1tgq6ojd2-ixpx5nz9Wjtbhc3i8AVAWw) [![Twitter](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops) [![Mastodon](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)  
+[![Slack](https://img.shields.io/badge/Slack-SpecterOps-02B36C)](slack.specterops.io) [![Twitter](https://img.shields.io/twitter/follow/specterops?style=social)](https://twitter.com/specterops) [![Mastodon](https://img.shields.io/mastodon/follow/109314317500800201?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@specterops)  
   
 At SpecterOps, we believe that we can influence our industry's maturation by contributing to the collective knowledge base. We do this by opening our ideas and hypotheses to inspection and criticism. That includes publishing our development works and contributing to the open-source community.
 
@@ -340,6 +340,14 @@ SpecterOps employees have also created and contributed to many other projects, t
   - C# Data Collector for BloodHound  
 - [SpecterOps/SharpHoundCommon](https://github.com/SpecterOps/SharpHoundCommon)  
   - Common library used by SharpHound.   
+- [SpecterOps/BloodHoundQueryLibrary](https://github.com/SpecterOps/BloodHoundQueryLibrary)  
+  - A community-driven collection of BloodHound queries   
+- [SpecterOps/DAWGS](https://github.com/SpecterOps/DAWGS)  
+- [SpecterOps/MSSQLHound](https://github.com/SpecterOps/MSSQLHound)  
+  - PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph  
+- [SpecterOps/1PassHound](https://github.com/SpecterOps/1PassHound)  
+- [SpecterOps/GitHound](https://github.com/SpecterOps/GitHound)  
+- [SpecterOps/SnowHound](https://github.com/SpecterOps/SnowHound)  
 - [MythicAgents/apfell](https://github.com/MythicAgents/apfell)  
   - JavaScript for Automation (JXA) macOS agent  
 - [MythicAgents/poseidon](https://github.com/MythicAgents/poseidon)  
@@ -358,6 +366,8 @@ SpecterOps employees have also created and contributed to many other projects, t
   - Checks expired domains for categorization/reputation and Archive.org history to determine good candidates for phishing and C2 domain names  
 - [GhostManager/Ghostwriter_CLI](https://github.com/GhostManager/Ghostwriter_CLI)  
   - Golang CLI binary used for installing and managing Ghostwriter  
+- [GhostManager/cobalt_sync](https://github.com/GhostManager/cobalt_sync)  
+  - Standalone Cobalt Strike operation logging Aggressor script for Ghostwriter 2.0+  
 - [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)  
   - Trying to tame the three-headed dog.  
 - [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt)  
