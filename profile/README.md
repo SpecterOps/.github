@@ -129,6 +129,21 @@ The following projects are some larger open-source projects SpecterOps has, and 
   
 </details>  
 
+## LudusHound
+  
+![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Blue%20Team-A8D08D) ![Slack](https://img.shields.io/badge/language-PowerShell-5465FF) ![forks](https://img.shields.io/github/forks/bagelByt3s/LudusHound?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/bagelByt3s/LudusHound?color=5465FF&style=social)  
+<details><summary>More Info</summary>  
+  
+![LudusHound](../img/ludushound.png)  
+  
+> LudusHound brings BloodHound data to life by creating a fully functional Ludus Range for controlled testing. It builds an Active Directory mirror environment based on previously collected BloodHound data, allowing red teams to simulate attack paths and exploit misconfigurations in a near-production lab from a configuration perspective before targeting live systems. For blue teams, LudusHound provides an environment to prepare defenses and practice hardening against AD attacks, ensuring they can test configuration changes in an accurate lab environment.  
+
+|Resource|Link|
+| :--- | :--- |
+|GitHub|<https://github.com/bagelByt3s/LudusHound>|
+  
+</details>  
+
 ## Misconfiguration Manager
   
 ![license](https://img.shields.io/badge/license-GPL--3.0-02B36C) ![Project Type](https://img.shields.io/badge/type-Red%20%26%20Blue%20Team-966FD6) ![Slack](https://img.shields.io/badge/language-PowerShell-5465FF) ![forks](https://img.shields.io/github/forks/subat0mik/Misconfiguration-Manager?color=0F0B38&style=social) ![stargazers](https://img.shields.io/github/stars/subat0mik/Misconfiguration-Manager?color=5465FF&style=social)  

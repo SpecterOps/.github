@@ -6,7 +6,7 @@
         "url": "https://github.com/SpecterOps/BloodHound",
         "isArchived": false,
         "createdAt": "2023-08-03T19:20:06Z",
-        "pushedAt": "2025-08-01T04:29:09Z",
+        "pushedAt": "2025-08-01T16:35:54Z",
         "homepageUrl": "https://bloodhoundenterprise.io/",
         "forkCount": 201,
         "openGraphImageUrl": "https://repository-images.githubusercontent.com/674367771/eea781ca-8a03-4299-9b16-03c11be7623a",
@@ -565,7 +565,7 @@
         "pushedAt": "2025-08-01T16:08:22Z",
         "homepageUrl": "",
         "forkCount": 509,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/6dfabb601f6ea2e57aa5aeb31b4c41ea40ad81650ac01cce31dbc344b96b62c6/its-a-feature/Mythic",
+        "openGraphImageUrl": "https://opengraph.githubassets.com/0ea0fccf397cbc50b7128e3cc971c0a92657102cbbc7c4c16fb93c9f5126f1d9/its-a-feature/Mythic",
         "stargazerCount": 3856,
         "isEmpty": false,
         "isFork": false,
@@ -594,7 +594,7 @@
                     "node": {
                         "name": "JavaScript"
                     },
-                    "size": 3050534
+                    "size": 3050976
                 },
                 {
                     "node": {
@@ -646,7 +646,7 @@
                 }
             ],
             "totalCount": 10,
-            "totalSize": 5621550
+            "totalSize": 5621992
         },
         "issues": {
             "totalCount": 13
@@ -1071,6 +1071,84 @@
         },
         "img": "sharpsccm.png",
         "type": "red",
+        "featured": true,
+        "extras": []
+    },
+    "ludushound": {
+        "name": "LudusHound",
+        "nameWithOwner": "bagelByt3s/LudusHound",
+        "description": "LudusHound is a tool for red and blue teams that transforms BloodHound data into a fully functional, Active Directory replica environment via Ludus for controlled testing.",
+        "url": "https://github.com/bagelByt3s/LudusHound",
+        "isArchived": false,
+        "createdAt": "2025-07-11T12:22:27Z",
+        "pushedAt": "2025-07-18T12:38:40Z",
+        "homepageUrl": null,
+        "forkCount": 16,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/8fb7757fbefe1afc919abe83805f24a05b7047cb1e9f41ea4b2448ca71e09d4b/bagelByt3s/LudusHound",
+        "stargazerCount": 234,
+        "isEmpty": false,
+        "isFork": false,
+        "isInOrganization": false,
+        "isMirror": false,
+        "isPrivate": false,
+        "latestRelease": null,
+        "licenseInfo": {
+            "name": "GNU General Public License v3.0",
+            "nickname": "GNU GPLv3",
+            "spdxId": "GPL-3.0"
+        },
+        "languages": {
+            "edges": [
+                {
+                    "node": {
+                        "name": "PowerShell"
+                    },
+                    "size": 358827
+                },
+                {
+                    "node": {
+                        "name": "Go"
+                    },
+                    "size": 62916
+                },
+                {
+                    "node": {
+                        "name": "Shell"
+                    },
+                    "size": 1864
+                }
+            ],
+            "totalCount": 3,
+            "totalSize": 423607
+        },
+        "issues": {
+            "totalCount": 2
+        },
+        "mentionableUsers": {
+            "nodes": [
+                {
+                    "login": "NetPenguins",
+                    "name": "Chad Wilson",
+                    "bio": "Red Teamer | Full Stack Developer",
+                    "company": null
+                },
+                {
+                    "login": "bagelByt3s",
+                    "name": "Beyviel David",
+                    "bio": "",
+                    "company": null
+                }
+            ]
+        },
+        "owner": {
+            "login": "bagelByt3s",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/90155329?u=ce169a5e555c21e6ec4aca503fdf0eaa23a2875f&v=4"
+        },
+        "releases": {
+            "totalCount": 0
+        },
+        "img": "ludushound.png",
+        "type": "blue",
         "featured": true,
         "extras": []
     },
@@ -5398,8 +5476,8 @@
         "pushedAt": "2025-07-29T15:04:17Z",
         "homepageUrl": null,
         "forkCount": 0,
-        "openGraphImageUrl": "https://opengraph.githubassets.com/4d076ef97072ab4f2a039ad6fa010aa119fb27dcb8d9dc853bafde4c8318877d/SpecterOps/GitHound",
-        "stargazerCount": 9,
+        "openGraphImageUrl": "https://opengraph.githubassets.com/435efaaf412e66bffc5c09b171a6f660ca7219794425a2b4f01c3b77cd9124e9/SpecterOps/GitHound",
+        "stargazerCount": 10,
         "isEmpty": false,
         "isFork": false,
         "isInOrganization": true,
