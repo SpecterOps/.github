@@ -213,6 +213,10 @@ projects:
     repos: [
       "Misconfiguration-Manager",
     ]
+  - profile: "bagelByt3s"
+    repos: [
+      "LudusHound",
+    ]
 
 
 # Featured repositories and profile will be displayed more prominently in the README
@@ -255,6 +259,10 @@ featured:
   - repo: "sharpsccm"
     type: "red"
     img: "sharpsccm.png"
+
+  - repo: "ludushound"
+    type: "blue"
+    img: "ludushound.png"
 
   - repo: "misconfiguration-manager"
     type: "purple"
@@ -345,3 +353,8 @@ overrides:
 
 
       The project was retired in 2019, but the code is still available for reference. You can learn more about the end of the project here: <https://mobile.twitter.com/specterops/status/1156650932421050368>
+
+  - repo: "ludushound"
+    name: "LudusHound"
+    description: >
+      LudusHound brings BloodHound data to life by creating a fully functional Ludus Range for controlled testing. It builds an Active Directory mirror environment based on previously collected BloodHound data, allowing red teams to simulate attack paths and exploit misconfigurations in a near-production lab from a configuration perspective before targeting live systems. For blue teams, LudusHound provides an environment to prepare defenses and practice hardening against AD attacks, ensuring they can test configuration changes in an accurate lab environment.
