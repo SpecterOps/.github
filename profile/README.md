@@ -360,6 +360,8 @@ SpecterOps employees have also created and contributed to many other projects, t
 - [SpecterOps/DAWGS](https://github.com/SpecterOps/DAWGS)  
 - [SpecterOps/MSSQLHound](https://github.com/SpecterOps/MSSQLHound)  
   - PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph  
+- [SpecterOps/JamfHound](https://github.com/SpecterOps/JamfHound)  
+  - JamfHound is a python3 project designed to collect and identify attack paths in Jamf Pro tenants based on existing object permissions by outputting data as JSON for ingestion into BloodHound.  
 - [SpecterOps/1PassHound](https://github.com/SpecterOps/1PassHound)  
 - [SpecterOps/GitHound](https://github.com/SpecterOps/GitHound)  
 - [SpecterOps/SnowHound](https://github.com/SpecterOps/SnowHound)  
