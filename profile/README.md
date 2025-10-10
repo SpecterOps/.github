@@ -30,7 +30,7 @@ The following projects are some larger open-source projects SpecterOps has, and 
 |Resource|Link|
 | :--- | :--- |
 |GitHub|<https://github.com/SpecterOps/BloodHound>|
-|Homepage|<https://bloodhoundenterprise.io/>|
+|Homepage|<https://specterops.io/bloodhound-enterprise/>|
 |Documentation|https://support.bloodhoundenterprise.io/|
   
 </details>  
