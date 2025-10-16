@@ -77,11 +77,6 @@ projects:
     ]
   - profile: "leechristensen"
     repos: [ "SpoolSample" ]
-  - profile: "t94j0"
-    repos: [
-      "satellite",
-      "gophish-notifier",
-    ]
   - profile: "Ne0nd0g"
     repos: [ "merlin" ]
   - profile: "cobbr"
